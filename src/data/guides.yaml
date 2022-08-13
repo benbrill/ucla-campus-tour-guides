@@ -1,0 +1,13 @@
+Guides:
+  - name: Ben Brill
+    year: Fourth Year
+    major: Statistics and Congitive Science
+    minor: NULL
+    image_path: ../images/guide_photos/bbrill.jpg
+    web_path: bbrill
+  - name: Cheryl Ma
+    year: old
+    major: econ
+    minor: NULL
+    image_path: ../images/guide_photos/cmah.jpg
+    web_path: cmah

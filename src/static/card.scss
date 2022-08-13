@@ -1,0 +1,85 @@
+#introCard{
+    border: none;
+    border-radius: 25px;
+    // min-height: 25rem;
+    margin: 20px;
+    box-shadow: 1px 1px 8px 5px rgb(0 0 0 / 10%);
+}
+#introCardHeader {
+  background-color: white;
+  border: none;
+  border-radius: 25px;
+}
+
+#introCardImg {
+    max-height: 10rem;
+    padding-top: 1rem;
+}
+
+
+#desktop {
+    left: 55%;
+    background: linear-gradient(135deg, rgba(133,133,133,0.3) 0%, rgba(226,226,226,0.3) 100%);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 5.5px );
+    box-sizing: border-box;
+    -webkit-backdrop-filter: blur( 10px );
+    border-radius: 3em;
+    top: 10rem;
+    border-radius: 3em;
+    position: absolute;
+    width: 25rem;
+    padding-left: 2%;
+
+}
+
+#mobile {
+    margin: auto;
+    top: 30%;
+    position: absolute;
+    padding-left: 5%;
+}
+
+.homeAbout {
+    font-family: halyard-display, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 4rem;
+}
+
+#photoCol {
+    display: flex;
+}
+
+#photoCard {
+    border: none;
+    border-radius: 20px;
+    // min-height: 25rem;
+    margin: 20px;
+    box-shadow: 1px 1px 8px 5px rgb(0 0 0 / 10%);
+    flex: 1 0;
+
+    .title {
+        text-align: center;
+        font-size: 1.75rem;
+        font-weight: 600;
+    }
+
+    .text {
+        margin: 5px 15px;
+    }
+
+    .footer {
+        margin: auto 0 5px 15px;
+        // justify-self: end;
+    }
+}
+
+
+
+
+
+
+// h2 {
+//     color: red;
+// }
