@@ -1,22 +1,33 @@
 import { graphql } from 'gatsby'
-import React from 'react'
+import React, { useState } from 'react'
 import Seo from '../components/seo'
 import GuideCard from '../components/guideCard'
-import { Row, Col, CardGroup } from 'react-bootstrap'
+import { Row, Col, CardGroup, Container} from 'react-bootstrap'
+import Menu from '../components/navbar'
+import { Modal } from 'react-bootstrap'
 
-const guides = ({data}) => {
+const Guides = ({data}) => {
+  
+
   return (
     <>
-    <Seo>
-    <CardGroup>
-        <Row xs={1} md={3}>
+    <Menu />
+    <Seo title="Meet the Guides">
+
+
+    
+    <Container fluid = "sm" style = {{padding: "3rem"}}>
+        <Row xs={2} md = {3} lg={5}>
             {data.dataYaml.Guides.map(guide => (
-            <Col style = {{display: "flex"}}>
+            <Col style = {{padding: "0.5rem 0.2rem"}}>
             <GuideCard props = {guide}/>
             </Col>
         ))}
         </Row>
-    </CardGroup>
+      </Container>
+      
+      
+      
     
     </Seo>
     </>
@@ -29,7 +40,7 @@ query MyQuery {
       Guides {
         image_path {
           childImageSharp {
-            gatsbyImageData
+            gatsbyImageData(aspectRatio: 1, transformOptions: {cropFocus: CENTER})
           }
         }
         name
@@ -43,4 +54,4 @@ query MyQuery {
   
 `
 
-export default guides
+export default Guides

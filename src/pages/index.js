@@ -6,19 +6,26 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import * as styles from "../components/index.module.css"
 import Countdown from "../components/countdown"
+import 'bootstrap/dist/css/bootstrap.min.css';
+import '../App.scss'
+import Menu from '../components/navbar'
+import HeroLanding from "../components/herolanding"
 
 
 
 const IndexPage = () => (
-  <Layout>
+  <>
     <Seo title="Home" />
-
+    <Menu />
+    <HeroLanding />
     <div style={{display: "flex", alignItems:"center", justifyContent: "center", flexDirection: "column"}}>
-      <h1 className={styles.titleFont}>Check slack ya dummies</h1>
-      <StaticImage src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png" />
+      {/* hero */}
+      
+      
+      
     </div>
-    <Countdown />
-  </Layout>
+    <Countdown />\
+    </>
 )
 
 /**

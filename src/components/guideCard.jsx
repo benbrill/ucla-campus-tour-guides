@@ -1,18 +1,58 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Card } from 'react-bootstrap'
 import { GatsbyImage } from 'gatsby-plugin-image'
 import { Link } from 'gatsby'
-import'../static/card.scss'
+import Button from 'react-bootstrap'
+import { Modal } from 'react-bootstrap'
+import {Container} from 'react-bootstrap'
+import {Row} from 'react-bootstrap'
+import {Col} from 'react-bootstrap'
 
 const GuideCard = ({props}) => {
+
+    const [show, setShow] = useState(false);
+
+    const handleClose = () => setShow(false);
+    const handleShow = () => setShow(true);
+
     return (
-        
-        <Card id = "photoCard">
-            <Link to = {props.web_path}><Card.Title className = "title">{props.name}</Card.Title></Link>
-            <Link to = {props.web_path}><GatsbyImage image = {props.image_path.childImageSharp.gatsbyImageData}/></Link>
-            <Card.Text class="text">{props.description}</Card.Text>
-            <Card.Text class="footer"><em>{props.date}</em></Card.Text>
-        </Card>
+        <>
+        <div onClick = {handleShow}>
+            <a onClick={handleShow} style = {{cursor: "pointer"}}>
+            <GatsbyImage image = {props.image_path.childImageSharp.gatsbyImageData} />
+            </a>
+            <div style = {{padding: "10px 0 0 0"}}>
+                <a onClick={handleShow} style = {{cursor: "pointer"}}>
+                <div to = {props.web_path} style= {{fontFamily : "Arial, Helvetica, sans-serif", fontWeight: "bold", fontSize: "1.4rem", lineHeight: "1rem"}}>{props.name}</div>
+                </a>
+                
+                <div style = {{fontFamily: "Inter, sans-serif", fontSize: "0.9rem", lineHeight: "1rem", padding:"5px 0px"}}>{props.year} // {props.major}</div>
+            </div>
+            
+        </div>
+            
+        <Modal show={show} onHide={handleClose} size="lg" centered>
+        <Modal.Header closeButton>
+        </Modal.Header>
+        <Modal.Body>
+            <Container class="show-grid">
+                <Row>
+                    <Col lg = {6} md = {12}>
+                        <GatsbyImage image = {props.image_path.childImageSharp.gatsbyImageData} />
+                    </Col>
+                    <Col lg = {6} md = {12} className = "py-3">
+                        <div style = {{fontFamily : "Arial, Helvetica, sans-serif", fontWeight: "bold", fontSize: "2.5rem", lineHeight: "1rem"}}>
+                            {props.name}
+                        </div>
+                        Year: {props.year}<br/>
+                        Major: {props.major}<br/>
+                        
+                    </Col>
+                </Row>
+            </Container>
+        </Modal.Body>
+         </Modal>
+        </>
         
     )
 }

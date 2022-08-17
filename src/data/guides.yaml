@@ -1,13 +1,37 @@
 Guides:
   - name: Ben Brill
-    year: Fourth Year
+    year: 4th year
     major: Statistics and Congitive Science
     minor: NULL
     image_path: ../images/guide_photos/bbrill.jpg
     web_path: bbrill
   - name: Cheryl Ma
-    year: old
-    major: econ
+    year: Graduated
+    major: Economics
+    minor: NULL
+    image_path: ../images/guide_photos/cmah.jpg
+    web_path: cmah
+  - name: Cheryl Ma
+    year: Graduated
+    major: Economics
+    minor: NULL
+    image_path: ../images/guide_photos/cmah.jpg
+    web_path: cmah
+  - name: Cheryl Ma
+    year: Graduated
+    major: Economics
+    minor: NULL
+    image_path: ../images/guide_photos/cmah.jpg
+    web_path: cmah
+  - name: Cheryl Ma
+    year: Graduated
+    major: Economics
+    minor: NULL
+    image_path: ../images/guide_photos/cmah.jpg
+    web_path: cmah
+  - name: Cheryl Ma
+    year: Graduated
+    major: Economics
     minor: NULL
     image_path: ../images/guide_photos/cmah.jpg
     web_path: cmah
