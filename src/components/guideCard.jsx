@@ -44,9 +44,10 @@ const GuideCard = ({props}) => {
                         <div style = {{fontFamily : "Arial, Helvetica, sans-serif", fontWeight: "bold", fontSize: "2.5rem", lineHeight: "1rem"}}>
                             {props.name}
                         </div>
+                        <div>
                         Year: {props.year}<br/>
                         Major: {props.major}<br/>
-                        
+                        </div>
                     </Col>
                 </Row>
             </Container>

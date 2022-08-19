@@ -11,7 +11,8 @@ const Menu = () => {
       
     <Navbar.Brand href="/" style={{ color: "white", fontFamily : "Arial", fontSize : "1rem", fontWeight: 600}}>
       <div style = {{display: "flex", alignItems: "center"}}>
-      <StaticImage src = "../images/circle_logo.png" width={40} aspectRatio = {1}/>
+      <StaticImage src = "../images/circle_logo.png" width={40} aspectRatio = {1} placeholder = "blurred"/> 
+      {/* <StaticImage src = "../images/cartoon_royce.png" width={40} aspectRatio = {1} placeholder = "blurred"/> */}
       <div style = {{lineHeight: "1.1rem", paddingLeft: "10px", fontFamily: "Inter, sans-serif"}}>UCLA <br /> <span style = {{fontWeight: "400"}}> Campus Tour Guides </span></div>
       </div>
     </Navbar.Brand>

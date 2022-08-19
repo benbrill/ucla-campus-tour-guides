@@ -35,3 +35,9 @@ Guides:
     minor: NULL
     image_path: ../images/guide_photos/cmah.jpg
     web_path: cmah
+  - name: Isabel Aks
+    year: fourth
+    major: Cognitive Science
+    minor: NULL
+    image_path: ../images/cartoon_royce.png
+    web_path: iaks

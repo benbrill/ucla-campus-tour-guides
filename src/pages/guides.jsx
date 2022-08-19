@@ -1,10 +1,10 @@
 import { graphql } from 'gatsby'
-import React, { useState } from 'react'
+import React from 'react'
 import Seo from '../components/seo'
 import GuideCard from '../components/guideCard'
 import { Row, Col, CardGroup, Container} from 'react-bootstrap'
 import Menu from '../components/navbar'
-import { Modal } from 'react-bootstrap'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Guides = ({data}) => {
   
