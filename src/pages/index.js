@@ -10,6 +10,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../App.scss'
 import Menu from '../components/navbar'
 import HeroLanding from "../components/herolanding"
+import Explainer from "../components/explainer"
 
 
 
@@ -24,7 +25,8 @@ const IndexPage = () => (
       
       
     </div>
-    <Countdown />\
+    <Countdown />
+    <Explainer />
     </>
 )
 

@@ -13,7 +13,7 @@ const Menu = () => {
       
     <Navbar.Brand href="/" style={{ color: "#000000", fontFamily : "Arial", fontSize : "1rem", fontWeight: 600}}>
       <div style = {{display: "flex", alignItems: "center"}}>
-      <StaticImage src = "../images/logo_UCLA_blue_boxed.svg" width={80} placeholder = "blurred"/> 
+      <StaticImage src = "../images/logo_UCLA_blue_boxed.svg" width={80} placeholder = "tracedSVG"/> 
       {/* <StaticImage src = "../images/cartoon_royce.png" width={40} aspectRatio = {1} placeholder = "blurred"/> */}
       <div style = {{lineHeight: "1.1rem", paddingLeft: "10px", fontFamily: "Arial, helvetica, sans-serif"}}>Undergraduate Admission <br /> 
       <span style = {{fontWeight: "400", fontFamily: "Arial, helvetica, sans-serif"}}> Campus Tour Guides </span></div>

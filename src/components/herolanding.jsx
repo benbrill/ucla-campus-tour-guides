@@ -28,7 +28,6 @@ const HeroLanding = () => {
   }
   `)
 
-    console.log("Here is", getImage(data.desktop))
   const images = withArtDirection(getImage(data.desktop), [
     {
       media: "(max-width: 600px)",
