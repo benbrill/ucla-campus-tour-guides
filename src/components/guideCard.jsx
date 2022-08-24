@@ -25,7 +25,7 @@ const GuideCard = ({props}) => {
                 <a onClick={handleShow} style = {{cursor: "pointer"}}>
                 <div to = {props.web_path} style= {{fontFamily : "Arial, Helvetica, sans-serif", fontWeight: "bold", fontSize: "1.4rem", lineHeight: "1rem"}}>{props.name}</div>
                 </a>
-                
+
                 <div style = {{fontFamily: "Inter, sans-serif", fontSize: "0.9rem", lineHeight: "1rem", padding:"5px 0px"}}>{props.year} // {props.major}</div>
             </div>
             
@@ -42,11 +42,14 @@ const GuideCard = ({props}) => {
                     </Col>
                     <Col lg = {6} md = {12} className = "py-3">
                         <div style = {{fontFamily : "Arial, Helvetica, sans-serif", fontWeight: "bold", fontSize: "2.5rem", lineHeight: "1rem"}}>
-                            {props.name}
+                            {props.name}<span style={{fontSize: "1rem", fontWeight: "400"}}>{props.pronouns}</span>
                         </div>
-                        <div>
+                        <div style = {{padding: "10px 0"}}>
                         Year: {props.year}<br/>
                         Major: {props.major}<br/>
+                        Involvements: {props.involvements}<br/>
+                        Fun Fact: {props.fun_fact}<br/>
+
                         </div>
                     </Col>
                 </Row>

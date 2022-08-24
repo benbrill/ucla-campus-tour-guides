@@ -19,9 +19,12 @@ const Guides = ({data}) => {
     <Container fluid = "sm" style = {{padding: "3rem"}}>
         <Row xs={2} md = {3} lg={5}>
             {data.dataYaml.Guides.map(guide => (
+            <>
             <Col style = {{padding: "0.5rem 0.2rem"}}>
+             <div style = {{position: "absolute", zIndex: 1, backgroundColor: "#2774AE", color: "#ffffff", width: "120px", margin: "7px 7px", textAlign: "center", fontSize: "0.8rem"}}>{guide.position}</div> 
             <GuideCard props = {guide}/>
             </Col>
+            </>
         ))}
         </Row>
       </Container>
@@ -44,8 +47,12 @@ query MyQuery {
           }
         }
         name
+        pronouns
+        position
         major
-        web_path
+        minor
+        involvements
+        fun_fact
         year
       }
     }

@@ -1,3 +1,12 @@
+const myCustomQueries = {
+  xs: '(max-width: 320px)',
+  sm: '(max-width: 720px)',
+  md: '(max-width: 1024px)',
+  l: '(max-width: 1536px)',
+  portrait: '(orientation: portrait)',
+};
+
+
 module.exports = {
   siteMetadata: {
     title: `UCLA Campus Tour Guides`,
@@ -27,7 +36,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/Favicon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-sass`,
@@ -52,6 +61,12 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `./src/data/`,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-breakpoints",
+      options: {
+        queries: myCustomQueries,
       },
     },
   ],

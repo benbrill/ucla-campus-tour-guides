@@ -1,43 +1,46 @@
 Guides:
   - name: Ben Brill
+    pronouns: "he/him"
+    position: Lead Tour Guide
     year: 4th year
-    major: Statistics and Congitive Science
+    major: Statistics and Cognitive Science
     minor: NULL
     image_path: ../images/guide_photos/bbrill.jpg
-    web_path: bbrill
+    involvements: Research, Learning Assistants, Daily Bruin, Internship
+    fun_fact: I made a bot to track baseball ticket prices because I like baseball
   - name: Cheryl Ma
-    year: Graduated
+    pronouns: she/her
+    position: Lead Tour Guide
+    year: 4th year
     major: Economics
-    minor: NULL
+    minor: Environmental Science
     image_path: ../images/guide_photos/cmah.jpg
-    web_path: cmah
+    involvements: Cultural Affairs Commission, FAC, TGIF
+    fun_fact: I'm a dummy and I am dumb
   - name: Cheryl Ma
-    year: Graduated
+    pronouns: she/her
+    position: null
+    year: 4th year
     major: Economics
-    minor: NULL
+    minor: Environmental Science
     image_path: ../images/guide_photos/cmah.jpg
-    web_path: cmah
+    involvements: Cultural Affairs Commission, FAC, TGIF
+    fun_fact: I'm a dummy and I am dumb
   - name: Cheryl Ma
-    year: Graduated
+    pronouns: she/her
+    position: null
+    year: 4th year
     major: Economics
-    minor: NULL
+    minor: Environmental Science
     image_path: ../images/guide_photos/cmah.jpg
-    web_path: cmah
+    involvements: Cultural Affairs Commission, FAC, TGIF
+    fun_fact: I'm a dummy and I am dumb
   - name: Cheryl Ma
-    year: Graduated
+    pronouns: she/her
+    position: null
+    year: 4th year
     major: Economics
-    minor: NULL
+    minor: Environmental Science
     image_path: ../images/guide_photos/cmah.jpg
-    web_path: cmah
-  - name: Cheryl Ma
-    year: Graduated
-    major: Economics
-    minor: NULL
-    image_path: ../images/guide_photos/cmah.jpg
-    web_path: cmah
-  - name: Isabel Aks
-    year: fourth
-    major: Cognitive Science
-    minor: NULL
-    image_path: ../images/cartoon_royce.png
-    web_path: iaks
+    involvements: Cultural Affairs Commission, FAC, TGIF
+    fun_fact: I'm a dummy and I am dumb
