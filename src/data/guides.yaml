@@ -3,44 +3,61 @@ Guides:
     pronouns: "he/him"
     position: Lead Tour Guide
     year: 4th year
-    major: Statistics and Cognitive Science
+    major: Statistics & Cognitive Science
     minor: NULL
     image_path: ../images/guide_photos/bbrill.jpg
     involvements: Research, Learning Assistants, Daily Bruin, Internship
     fun_fact: I made a bot to track baseball ticket prices because I like baseball
-  - name: Cheryl Ma
+  - name: Rebecca Epner
     pronouns: she/her
-    position: Lead Tour Guide
     year: 4th year
-    major: Economics
+    major: Cognitive Science
     minor: Environmental Science
-    image_path: ../images/guide_photos/cmah.jpg
+    image_path: ../images/guide_photos/bepner.jpg
+    involvements: Cultural Affairs Commission, FAC, TGIF
+    fun_fact: I'm fantastic
+  - name: Raashi Chaudhari
+    pronouns: she/her
+    position: null
+    year: 3rd year
+    major: Cognitive Science
+    minor: Environmental Science
+    image_path: ../images/guide_photos/rchaudhari.jpg
     involvements: Cultural Affairs Commission, FAC, TGIF
     fun_fact: I'm a dummy and I am dumb
-  - name: Cheryl Ma
+  - name: Kristi Le
     pronouns: she/her
     position: null
     year: 4th year
-    major: Economics
-    minor: Environmental Science
-    image_path: ../images/guide_photos/cmah.jpg
+    major: Cognitive Science
+    minor: Computational and Systems Biology
+    image_path: ../images/guide_photos/kle.jpg
     involvements: Cultural Affairs Commission, FAC, TGIF
     fun_fact: I'm a dummy and I am dumb
-  - name: Cheryl Ma
+  - name: Krutika Joshi
+    pronouns: she/her
+    position: null
+    year: 2nd year
+    major: Human Biology and Society
+    minor: Environmental Science
+    image_path: ../images/guide_photos/kjoshi.jpg
+    involvements: Cultural Affairs Commission, FAC, TGIF
+    fun_fact: I'm a dummy and I am dumb
+  - name: Sawyer Findley
+    pronouns: he/him
+    position: null
+    year: 2nd year
+    major: Computational and Systems Biology
+    minor: Environmental Science
+    image_path: ../images/guide_photos/sfindley.jpg
+    involvements: Cultural Affairs Commission, FAC, TGIF
+    fun_fact: I'm a dummy and I am dumb
+  - name: Isabel Aks
     pronouns: she/her
     position: null
     year: 4th year
-    major: Economics
+    major: Cognitive Science
     minor: Environmental Science
-    image_path: ../images/guide_photos/cmah.jpg
+    image_path: ../images/guide_photos/iaks.jpg
     involvements: Cultural Affairs Commission, FAC, TGIF
-    fun_fact: I'm a dummy and I am dumb
-  - name: Cheryl Ma
-    pronouns: she/her
-    position: null
-    year: 4th year
-    major: Economics
-    minor: Environmental Science
-    image_path: ../images/guide_photos/cmah.jpg
-    involvements: Cultural Affairs Commission, FAC, TGIF
-    fun_fact: I'm a dummy and I am dumb
+    fun_fact: I'm a dummy and I am dumb2
