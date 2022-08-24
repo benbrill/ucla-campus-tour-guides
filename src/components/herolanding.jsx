@@ -11,17 +11,18 @@ const HeroLanding = () => {
   const data = useStaticQuery(graphql`
   query {
     desktop: file(
-      absolutePath: {eq: "C:/Users/brill/OneDrive/Documents/GitHub/ucla-campus-tour-guides/src/images/hero/cover_photo_1.jpg"}
+      relativePath: {eq: "cover_photo_1.jpg"}
     ) {
       childImageSharp {
         gatsbyImageData(aspectRatio: 2.67, placeholder: BLURRED, layout: FULL_WIDTH)
       }
     }
     mobile: file(
-      absolutePath: {eq: "C:/Users/brill/OneDrive/Documents/GitHub/ucla-campus-tour-guides/src/images/hero/cover_photo_portrait.jpg"}
+      relativePath: {eq: "cover_photo_portrait.jpg"}
     ) {
       childImageSharp {
         gatsbyImageData(aspectRatio: 1, placeholder: BLURRED, layout: FULL_WIDTH)
+        
       }
     }
   }
