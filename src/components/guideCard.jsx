@@ -28,7 +28,7 @@ const GuideCard = ({props}) => {
 
                 <div style = {{fontFamily: "Inter, sans-serif", fontSize: "0.9rem", lineHeight: "1rem", padding:"5px 0px"}}>{props.year} // {props.major}</div>
             </div>
-            
+    
         </div>
             
         <Modal show={show} onHide={handleClose} size="lg" centered>
@@ -50,13 +50,14 @@ const GuideCard = ({props}) => {
                         Involvements: {props.involvements}<br/>
                         Fun Fact: {props.fun_fact}<br/>
 
-                        </div>
+                        </div> 
                     </Col>
                 </Row>
             </Container>
         </Modal.Body>
          </Modal>
         </>
+
         
     )
 }
