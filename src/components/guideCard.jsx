@@ -41,7 +41,7 @@ const GuideCard = ({props}) => {
                         <GatsbyImage image = {props.image_path.childImageSharp.gatsbyImageData} />
                     </Col>
                     <Col lg = {6} md = {12} className = "py-3">
-                        <div style = {{fontFamily : "Arial, Helvetica, sans-serif", fontWeight: "bold", fontSize: "2.5rem", lineHeight: "1rem"}}>
+                        <div style = {{fontFamily : "Arial, Helvetica, sans-serif", fontWeight: "bold", fontSize: "2.5rem", lineHeight: "2.3rem"}}>
                             {props.name}<span style={{fontSize: "1rem", fontWeight: "400"}}>{props.pronouns}</span>
                         </div>
                         <div style = {{padding: "10px 0"}}>

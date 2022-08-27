@@ -11,6 +11,7 @@ import '../App.scss'
 import Menu from '../components/navbar'
 import HeroLanding from "../components/herolanding"
 import Explainer from "../components/explainer"
+import Testimonial from "../components/testimonial"
 
 
 
@@ -27,6 +28,7 @@ const IndexPage = () => (
     </div>
     <Countdown />
     <Explainer />
+    <Testimonial />
     </>
 )
 
