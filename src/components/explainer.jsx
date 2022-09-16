@@ -17,7 +17,7 @@ const Explainer = () => {
                 for academic and personal growth. 
             </div>
             <div style = {{display: "flex", marginTop: "20px", maxWidth : "600px", marginLeft: "auto"}}>
-             <Button className = {styles.button}>Apply!</Button>
+             <Button className = {styles.button} >Apply!</Button>
             </div>
         </div>
         
@@ -32,7 +32,7 @@ const Explainer = () => {
             the opportunity to have a meaningful impact on prospective students from around the world. 
             </div>
             <div style = {{display: "flex", marginTop: "20px", maxWidth : "600px"}}>
-             <Button className = {styles.button}>Meet the Guides!</Button>
+             <Button className = {styles.button} href = "/guides">Meet the Guides!</Button>
             </div>
         </div>
     </div>

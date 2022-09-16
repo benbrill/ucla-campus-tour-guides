@@ -1,8 +1,5 @@
 import React, { useState } from 'react'
-import { Card } from 'react-bootstrap'
 import { GatsbyImage } from 'gatsby-plugin-image'
-import { Link } from 'gatsby'
-import Button from 'react-bootstrap'
 import { Modal } from 'react-bootstrap'
 import {Container} from 'react-bootstrap'
 import {Row} from 'react-bootstrap'
@@ -42,11 +39,13 @@ const GuideCard = ({props}) => {
                     </Col>
                     <Col lg = {6} md = {12} className = "py-3">
                         <div style = {{fontFamily : "Arial, Helvetica, sans-serif", fontWeight: "bold", fontSize: "2.5rem", lineHeight: "2.3rem"}}>
-                            {props.name}<span style={{fontSize: "1rem", fontWeight: "400"}}>{props.pronouns}</span>
+                            {props.name}<span style={{fontSize: "1rem", fontWeight: "400"}}>{props.pronoun}</span>
                         </div>
                         <div style = {{padding: "10px 0"}}>
                         Year: {props.year}<br/>
                         Major: {props.major}<br/>
+                        {(props.minor != null) &&
+                            <div>Minor: {props.minor}</div>}
                         Involvements: {props.involvements}<br/>
                         Fun Fact: {props.fun_fact}<br/>
 

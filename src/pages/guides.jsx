@@ -15,7 +15,17 @@ const Guides = ({data}) => {
     <Seo title="Meet the Guides">
 
 
-    
+    <div>
+      <div style = {{fontSize: "3rem", textAlign: "center", fontWeight: "bold"}}>Meet the Guides</div>
+      <div style = {{textAlign: "center", maxWidth: "600px", margin: "auto"}}>
+        Here's a little explainer about why you should meet our tour guides and they are super diverse and great
+        and you should apply
+      </div>
+    </div>
+
+    <div>
+      
+    </div>
     <Container fluid = "sm" style = {{padding: "3rem"}}>
         <Row xs={2} md = {3} lg={5}>
             {data.dataYaml.Guides.map(guide => (
@@ -47,7 +57,7 @@ query MyQuery {
           }
         }
         name
-        pronouns
+        pronoun
         position
         major
         minor

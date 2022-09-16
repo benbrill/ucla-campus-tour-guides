@@ -1,10 +1,14 @@
 import React from 'react'
 import * as styles from './index.module.css'
+import { StaticImage } from 'gatsby-plugin-image'
 
 const Testimonial = () => {
   return (
     <div className={styles.testimonialContainer}>
         <div className={styles.testimonialTitleWrapper}>
+            <div style = {{position: "absolute"}}>
+                <StaticImage src = "../images/map_2.svg" quality = {90} />
+            </div>
             
             <div className = {styles.testimonialTitle}>
                 Cool <br />

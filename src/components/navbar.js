@@ -24,7 +24,7 @@ const Menu = () => {
     <Nav className="justify-content-end" style = {{justifyContent: "flex-end", }} >
       <Nav.Link href="/guides" className={styles.navlink}>Meet the Guides</Nav.Link>
       <Nav.Link href="/guides" className={styles.navlink}>FAQ</Nav.Link>
-      <Nav.Link href="/guides" className={styles.navlink}>Contact</Nav.Link>
+      <Nav.Link href="/contact" className={styles.navlink}>Contact</Nav.Link>
       <Nav.Link href="/data" id={styles.apply}>Apply</Nav.Link>
     </Nav>
     </Navbar.Collapse>
