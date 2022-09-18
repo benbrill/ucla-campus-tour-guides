@@ -1,7 +1,7 @@
 Guides:
 -
-    first: Kevin
-    last: Arifin
+    first_name: Kevin
+    last_name: Arifin
     name: Kevin Arifin
     position: Group Tour Coord
     pronoun: he/him
@@ -14,8 +14,8 @@ Guides:
     fun_fact: 'I''m allergic to bananas, so don''t bring them on my tours! '
     image_path: ../images/guide_photos/karifin.jpg
 -
-    first: Itai
-    last: Tismansky
+    first_name: Itai
+    last_name: Tismansky
     name: Itai Tismansky
     position: Scheduling Coord
     pronoun: he/him
@@ -28,8 +28,8 @@ Guides:
     fun_fact: I used to work at a bakery that won three Food Network competitions
     image_path: ../images/guide_photos/itismansky.jpg
 -
-    first: Jessica
-    last: Warshal
+    first_name: Jessica
+    last_name: Warshal
     name: Jessica Warshal
     position: Internal Ops Coord
     pronoun: she/her
@@ -41,8 +41,8 @@ Guides:
     fun_fact: I'm sick
     image_path: ../images/guide_photos/jwarshal.jpg
 -
-    first: Layla
-    last: Sumilang
+    first_name: Layla
+    last_name: Sumilang
     name: Layla Sumilang
     pronoun: she/her
     position: Lead Tour Guide
@@ -52,11 +52,11 @@ Guides:
     minor: Anthropology & Spanish 
     hometown: St. Petersburg, FL
     involvements: Samahang Pilipino Cultural Night, Bruin Ambassadors, Teach for American Ignite Fellowship 
-    fun_fact: All five of my top 5 most listened to songs on Spotify last year were Olivia Rodrigo songs. Super fan or super sad?
+    fun_fact: All five of my top 5 most listened to songs on Spotify last_name year were Olivia Rodrigo songs. Super fan or super sad?
     image_path: ../images/guide_photos/lsumilang.jpg
 -
-    first: Adin
-    last: Ryssdal
+    first_name: Adin
+    last_name: Ryssdal
     name: Adin Ryssdal
     pronoun: he/him
     year: 4th year
@@ -68,8 +68,8 @@ Guides:
     fun_fact: UCLA and I have the same birthday (May 23)!
     image_path: ../images/guide_photos/arysdall.jpg
 -
-    first: John
-    last: Calonia
+    first_name: John
+    last_name: Calonia
     name: John Calonia
     pronoun: he/him
     year: 3rd year
@@ -81,8 +81,8 @@ Guides:
     fun_fact: I’m in Ariana Grande’s top 0.1% of listeners on Spotify
     image_path: ../images/guide_photos/jcalonia.jpg
 -
-    first: Karina
-    last: Kong
+    first_name: Karina
+    last_name: Kong
     name: Karina Kong
     pronoun: she/her
     year: 4th year
@@ -94,8 +94,8 @@ Guides:
     fun_fact: I published a children’s book in Spanish that you can buy on Amazon 
     image_path: ../images/guide_photos/kkong.jpg
 -
-    first: Abby
-    last: Avin
+    first_name: Abby
+    last_name: Avin
     name: Abby Avin
     pronoun: she/her
     year: 2nd year
@@ -107,8 +107,8 @@ Guides:
     fun_fact: I speak fluent Russian
     image_path: ../images/guide_photos/aavin.jpg
 -
-    first: Sarah
-    last: Huang
+    first_name: Sarah
+    last_name: Huang
     name: Sarah Huang
     pronoun: she/her
     year: 4th year
@@ -120,8 +120,8 @@ Guides:
     fun_fact: 'I''ve climbed 13 of Colorado''s 14ers, peaks above 14,000 feet in elevation! '
     image_path: ../images/guide_photos/shuang.jpg
 -
-    first: Raashi
-    last: Chaudhari
+    first_name: Raashi
+    last_name: Chaudhari
     name: Raashi Chaudhari
     pronoun: she/her
     year: 3rd year
@@ -133,8 +133,8 @@ Guides:
     fun_fact: I was in a Still Woozy music video!
     image_path: ../images/guide_photos/rchaudhari.jpg
 -
-    first: Tyler
-    last: Wong
+    first_name: Tyler
+    last_name: Wong
     name: Tyler Wong
     pronoun: he/him
     position: Lead Tour Guide
@@ -147,8 +147,8 @@ Guides:
     fun_fact: In middle school, I used to run a Parks and Recreation fan account that had 30k followers at its peak.
     image_path: ../images/guide_photos/twong.jpg
 -
-    first: Nathan
-    last: Wu
+    first_name: Nathan
+    last_name: Wu
     name: Nathan Wu
     pronoun: he/him
     year: 3rd year
@@ -160,8 +160,8 @@ Guides:
     fun_fact: My twin brother goes to USC
     image_path: ../images/guide_photos/nwu.JPG
 -
-    first: Krutika
-    last: Joshi
+    first_name: Krutika
+    last_name: Joshi
     name: Krutika Joshi
     pronoun: she/her
     year: 2nd year
@@ -173,8 +173,8 @@ Guides:
     fun_fact: I have a dinosaur tattoo
     image_path: ../images/guide_photos/kjoshi.jpg
 -
-    first: Ashton
-    last: St.Germaine
+    first_name: Ashton
+    last_name: St.Germaine
     name: Ashton St.Germaine
     pronoun: she/her
     year: 2nd year
@@ -186,8 +186,8 @@ Guides:
     fun_fact: At one point had 16 bunnies 
     image_path: ../images/guide_photos/astgermaine.jpg
 -
-    first: Laura
-    last: de Beer
+    first_name: Laura
+    last_name: de Beer
     name: Laura de Beer
     pronoun: she/her
     year: 3rd year
@@ -199,8 +199,8 @@ Guides:
     fun_fact: I am trilingual and have three different passports 
     image_path: ../images/guide_photos/ldb.jpg
 -
-    first: William
-    last: McReynolds
+    first_name: William
+    last_name: McReynolds
     name: William McReynolds
     pronoun: he/him
     year: 3rd year
@@ -212,8 +212,8 @@ Guides:
     fun_fact: I can recite 75 digits of pi (usefulness in life to be determined however)!
     image_path: ../images/guide_photos/wmcreynolds.jpg
 -
-    first: Jessica
-    last: Yang
+    first_name: Jessica
+    last_name: Yang
     name: Jessica Yang
     pronoun: she/her
     year: 4th year
@@ -225,8 +225,8 @@ Guides:
     fun_fact: I can type 165 words per minute 
     image_path: ../images/guide_photos/jyang.jpg
 -
-    first: Montana
-    last: James
+    first_name: Montana
+    last_name: James
     name: Montana James
     pronoun: she/her
     year: 4th year
@@ -238,8 +238,8 @@ Guides:
     fun_fact: I was in a Disney commercial when I was 10
     image_path: ../images/guide_photos/mjames.jpg
 -
-    first: Rea
-    last: Karim
+    first_name: Rea
+    last_name: Karim
     name: Rea Karim
     pronoun: she/her
     year: 4th year
@@ -251,8 +251,8 @@ Guides:
     fun_fact: I’m left handed and speak 4 languages  
     image_path: ../images/guide_photos/rkarim.jpg
 -
-    first: Emily
-    last: Sweet
+    first_name: Emily
+    last_name: Sweet
     name: Emily Sweet
     pronoun: she/her
     year: 4th year
@@ -264,8 +264,8 @@ Guides:
     fun_fact: I have an adorable rescue dog named Riley! 
     image_path: ../images/guide_photos/esweet.jpg
 -
-    first: Logan
-    last: Chin
+    first_name: Logan
+    last_name: Chin
     name: Logan Chin
     pronoun: he/him
     year: 2nd year
@@ -277,8 +277,8 @@ Guides:
     fun_fact: I can write upside down
     image_path: ../images/guide_photos/lchin.jpg
 -
-    first: Lanie
-    last: Kappel
+    first_name: Lanie
+    last_name: Kappel
     name: Lanie Kappel
     pronoun: she/her
     year: 3rd year
@@ -290,8 +290,8 @@ Guides:
     fun_fact: Freshman year for Halloween I dressed up as an inflatable dinosaur and did a photoshoot in front of Royce that got posted on UCLA social media pages
     image_path: ../images/guide_photos/lkappel.jpg
 -
-    first: Sawyer
-    last: Findley
+    first_name: Sawyer
+    last_name: Findley
     name: Sawyer Findley
     pronoun: he/him
     year: 2nd year
@@ -303,8 +303,8 @@ Guides:
     fun_fact: I had the cheese touch for over a month in elementary school. It was devastating. 
     image_path: ../images/guide_photos/sfindley.jpg
 -
-    first: Abby
-    last: Perschon
+    first_name: Abby
+    last_name: Perschon
     name: Abby Perschon
     pronoun: she/her
     year: 4th year
@@ -316,8 +316,8 @@ Guides:
     fun_fact: I have been skiing since I was 3! 
     image_path: ../images/guide_photos/aperschon.jpg
 -
-    first: Sierra
-    last: Oudin
+    first_name: Sierra
+    last_name: Oudin
     name: Sierra Oudin
     pronoun: she/her
     year: 3rd year
@@ -329,8 +329,8 @@ Guides:
     fun_fact: My first concert was Hannah Montana and The Cheetah girls. 
     image_path: ../images/guide_photos/soudin.jpg
 -
-    first: Anvi
-    last: Brahmbhatt
+    first_name: Anvi
+    last_name: Brahmbhatt
     name: Anvi Brahmbhatt
     pronoun: she/her
     year: 4th year
@@ -342,8 +342,8 @@ Guides:
     fun_fact: I am obsessed with taco bell hot sauce and have it on top of EVERYTHING.
     image_path: ../images/guide_photos/abrahmbhatt.jpg
 -
-    first: Katharine
-    last: Jacobs
+    first_name: Katharine
+    last_name: Jacobs
     name: Katharine Jacobs
     pronoun: she/her
     year: 3rd year
@@ -355,8 +355,8 @@ Guides:
     fun_fact: I can name every single world capital 
     image_path: ../images/guide_photos/kjacobs.jpg
 -
-    first: Joel
-    last: Turk
+    first_name: Joel
+    last_name: Turk
     name: Joel Turk
     pronoun: he/him
     year: 2nd year
@@ -368,8 +368,8 @@ Guides:
     fun_fact: I actually got to give my little cousin her bruin bound tour and I almost fell down Janss steps because of my excitement. It was all worth it because I got to welcome my cousin and her future classmates to campus for the first time!
     image_path: ../images/guide_photos/jturk.jpg
 -
-    first: Lexi
-    last: Daetz
+    first_name: Lexi
+    last_name: Daetz
     name: Lexi Daetz
     position: Lead Tour Guide
     pronoun: she/her
@@ -382,8 +382,8 @@ Guides:
     fun_fact: I grew up with a dog named Bruin
     image_path: ../images/guide_photos/ldaetz.jpg
 -
-    first: Isabel
-    last: Aks
+    first_name: Isabel
+    last_name: Aks
     name: Isabel Aks
     pronoun: she/her
     year: 4th year
@@ -395,8 +395,8 @@ Guides:
     fun_fact: I intensively studied theatre for four years in a preprofessional program at a performing arts high school in San Francisco only to end up pursuing scientific research in college. 
     image_path: ../images/guide_photos/iaks.jpg
 -
-    first: Randal
-    last: Macias
+    first_name: Randal
+    last_name: Macias
     name: Randal Macias
     pronoun: he/him
     year: 3rd year
@@ -408,8 +408,8 @@ Guides:
     fun_fact: I am a fiend for online shopping and love to browse Grailed in most of my free time. 
     image_path: ../images/guide_photos/rmacias.jpg
 -
-    first: Chloe
-    last: Dawes
+    first_name: Chloe
+    last_name: Dawes
     name: Chloe Dawes
     pronoun: she/her
     year: 4th year
@@ -421,8 +421,8 @@ Guides:
     fun_fact: I’m a barista
     image_path: ../images/guide_photos/cdawes.jpeg
 -
-    first: Alexsia
-    last: Drulias
+    first_name: Alexsia
+    last_name: Drulias
     name: Alexsia Drulias
     pronoun: she/her
     position: Lead Tour Guide
@@ -435,8 +435,8 @@ Guides:
     fun_fact: I have never met a person who is a less-picky eater than myself. 
     image_path: ../images/guide_photos/adrulias.jpg
 -
-    first: Kristi
-    last: Le
+    first_name: Kristi
+    last_name: Le
     name: Kristi Le
     pronoun: she/her
     year: 4th year
@@ -447,6 +447,22 @@ Guides:
     involvements: Environmental Research, Fashion and Student Trends, Herbarium Volunteer, SEACLEAR, Business Analyst Internship
     fun_fact: I once got lost in Legoland on a school trip
     image_path: ../images/guide_photos/kle.jpg
+-
+    first_name: Ben
+    last_name: Brill
+    name: Ben Brill
+    pronoun: he/him
+    position: Lead Tour Guide
+    year: 4th year
+    transfer: No
+    major: Statistics & Cognitive Science
+    hometown: Lomita, CA
+    involvements: Daily Bruin, Mathematics Research, Learning Assistant, Data Science Internship
+    fun_fact: I've climbed Half Dome
+    image_path: ../images/guide_photos/bbrill.jpg
+
+
+
 
 
 

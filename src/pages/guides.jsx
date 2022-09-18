@@ -8,6 +8,19 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Guides = ({data}) => {
   
+  let dataSorted = data.allDataYaml.nodes[1].Guides.sort((a, b) => {
+    const nameA = a.name.toUpperCase(); // ignore upper and lowercase
+    const nameB = b.name.toUpperCase(); // ignore upper and lowercase
+    if (nameA < nameB) {
+      return -1;
+    }
+    if (nameA > nameB) {
+      return 1;
+    }
+  
+    // names must be equal
+    return 0;
+  });
 
   return (
     <>
@@ -28,7 +41,7 @@ const Guides = ({data}) => {
     </div>
     <Container fluid = "sm" style = {{padding: "3rem"}}>
         <Row xs={2} md = {3} lg={5}>
-            {data.allDataYaml.nodes[1].Guides.map(guide => (
+            {dataSorted.map(guide => (
             <>
             <Col style = {{padding: "0.5rem 0.2rem"}}>
              <div style = {{position: "absolute", zIndex: 1, backgroundColor: "#2774AE", color: "#ffffff", width: "120px", margin: "7px 7px", textAlign: "center", fontSize: "0.8rem"}}>{guide.position}</div> 

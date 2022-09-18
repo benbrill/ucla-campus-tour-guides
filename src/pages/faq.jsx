@@ -17,7 +17,7 @@ const FAQ = ({data}) => {
         </div>
 
         <Container fluid = "sm">
-        {data.allDataYaml.nodes[1].FAQs.map(faq => 
+        {data.allDataYaml.nodes[0].FAQs.map(faq => 
             (<>
             <div style = {{paddingBottom: "10px"}}>
                 <div style={{fontWeight: 600}}>{faq.question}</div>
