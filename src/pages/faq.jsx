@@ -3,12 +3,13 @@ import Menu from '../components/navbar'
 import Seo from '../components/seo'
 import { graphql } from 'gatsby'
 import { Container } from 'react-bootstrap'
+import Layout from '../components/layout'
 
 const FAQ = ({data}) => {
   return (
     <div>
-        <Seo title = "FAQ" />
-        <Menu />
+        <Seo title = "FAQs" />
+        <Layout>
         <div>
         <div style = {{fontSize: "3rem", textAlign: "center", fontWeight: "bold"}}>Frequently Asked Questions</div>
         <div style = {{textAlign: "center", maxWidth: "600px", margin: "auto", paddingBottom: "20px"}}>
@@ -17,7 +18,7 @@ const FAQ = ({data}) => {
         </div>
 
         <Container fluid = "sm">
-        {data.allDataYaml.nodes[1].FAQs.map(faq => 
+        {data.allDataYaml.nodes[0].FAQs.map(faq => 
             (<>
             <div style = {{paddingBottom: "10px"}}>
                 <div style={{fontWeight: 600}}>{faq.question}</div>
@@ -27,6 +28,7 @@ const FAQ = ({data}) => {
             ))}
         </Container>
     </div>
+    </Layout>
     </div>
   )
 }

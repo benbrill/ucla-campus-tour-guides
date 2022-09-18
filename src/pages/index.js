@@ -12,6 +12,7 @@ import Menu from '../components/navbar'
 import HeroLanding from "../components/herolanding"
 import Explainer from "../components/explainer"
 import Testimonial from "../components/testimonial"
+import Footer from "../components/footer"
 
 
 
@@ -29,6 +30,7 @@ const IndexPage = () => (
     <Countdown />
     <Explainer />
     <Testimonial />
+    <Footer />
     </>
 )
 

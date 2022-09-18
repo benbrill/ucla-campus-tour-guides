@@ -23,8 +23,8 @@ const Testimonial = () => {
         </div>
             <div className={styles.testimonialVid}>
             <iframe
-            src="https://www.youtube.com/embed/dQc1_bRga20?start=268"
-            title="YouTube video player" 
+            src="https://drive.google.com/file/d/1nGV_tl2TaYHT7FbQN-m8qT1Ygwow9Aae/preview"
+            title="Campus Tour Video" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen

@@ -460,7 +460,32 @@ Guides:
     involvements: Daily Bruin, Mathematics Research, Learning Assistant, Data Science Internship
     fun_fact: I've climbed Half Dome
     image_path: ../images/guide_photos/bbrill.jpg
-
+- 
+    first_name: Becca
+    last_name: Epner
+    name: Becca Epner
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Cognitive Science
+    hometown: San Diego, CA
+    involvements: Undergraduate Research Journal of Psychology, Teaching and Learning Lab, Intern at Sony Pictures
+    fun_fact: I’ve never been stung by a bee and I don’t plan on being stung any time soon!
+    image_path: ../images/guide_photos/bepner.jpg
+- 
+    first_name: Sam
+    last_name: Galvan
+    name: Sam Galvan
+    pronoun: she/her
+    position: Lead Tour Guide
+    year: 4th year
+    transfer: No
+    major: Cognitive Science
+    minor: Film
+    hometown: Menifee, CA
+    involvements: New Student Academic Programs, UniCamp, Culture and Contact Lab
+    fun_fact: I roller skate down by the pier in Santa Monica!
+    image_path: ../images/guide_photos/sgalvan.jpeg
 
 
 

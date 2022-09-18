@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
           }}
         >
           © {new Date().getFullYear()} &middot;
-          {` `}
+          {` `} Made with ❤️ from Kerk 148
         </footer>
       </div>
     </>

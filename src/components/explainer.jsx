@@ -17,7 +17,7 @@ const Explainer = () => {
 
             </div>
             <div style = {{display: "flex", marginTop: "20px", maxWidth : "600px", marginLeft: "auto"}}>
-             <Button className = {styles.button} >Apply!</Button>
+             <Button className = {styles.button} href = "https://connect.admission.ucla.edu/register/ApplyCampusTours2023" target="_blank">Apply!</Button>
             </div>
         </div>
         

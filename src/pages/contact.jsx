@@ -4,6 +4,7 @@ import Menu from '../components/navbar'
 import Layout from '../components/layout'
 import { Form } from 'react-bootstrap'
 import { Button } from 'react-bootstrap'
+import Footer from '../components/footer'
 
 const Contact = () => {
 
@@ -41,7 +42,6 @@ const Contact = () => {
         Submit
       </Button>
     </Form>
-
     </Layout>
     </Seo>
 
