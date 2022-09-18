@@ -14,6 +14,12 @@ const Contact = () => {
   return (
     <Seo title = "Contact">
     <Layout> 
+    <div>
+        <div style = {{fontSize: "3rem", textAlign: "center", fontWeight: "bold"}}>Contact us!</div>
+        <div style = {{textAlign: "center", maxWidth: "600px", margin: "auto", paddingBottom: "20px"}}>
+            Fill out the form below to reach us or email us at <a href = "mailto:apply.uclatours@gmail.com">here</a>
+        </div>
+    </div>
     <Form onSubmit={ handleSubmit } id = "myForm">
       <Form.Group className="mb-3" controlId="name">
         <Form.Label>Name</Form.Label>
@@ -31,7 +37,7 @@ const Contact = () => {
                 <Form.Control type="text" as="textarea" rows={3} placeholder = "question"/>
       </Form.Group>
         
-      <Button variant="primary" type="submit">
+      <Button variant="primary" type="submit" style = {{color: "#ffffff", backgroundColor: "#2774AE", borderRadius: 0, marginTop: "10px"}}>
         Submit
       </Button>
     </Form>

@@ -11,9 +11,9 @@ const Testimonial = () => {
             </div>
             
             <div className = {styles.testimonialTitle}>
-                Cool <br />
-                Testimonial <br /> 
-                <span style = {{fontWeight: "bold"}}>Title</span> 
+                Join <br />
+                Tours <br /> 
+                <span style = {{fontWeight: "bold"}}>Today</span> 
                 </div>
             <div className = {styles.testimonialBody}>
             Each of our tour guides use their own unique, personal experiences to give their guests real insights into the life 

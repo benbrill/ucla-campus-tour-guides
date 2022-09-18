@@ -12,9 +12,9 @@ const Explainer = () => {
         </div>
         <div className = {styles.textContainer}>
             <div className = {styles.explainerText} style = {{marginLeft: "auto"}}>
-                UCLA Campus Tours is a student organization providing comprehensive walking and virtual campus tours to prospective freshman, transfer, and admitted students. 
-                Our tour guides are passionate about inspiring students of all backgrounds to pursue higher education at a university with opportunities 
-                for academic and personal growth. 
+            UCLA Campus Tours represents UCLA Undergraduate Admissions by providing comprehensive walking and virtual campus tours to prospective freshman, transfer, and admitted students. 
+            UCLA Campus Tour Guides are paid to make meaningful impacts on prospective students from around the world.
+
             </div>
             <div style = {{display: "flex", marginTop: "20px", maxWidth : "600px", marginLeft: "auto"}}>
              <Button className = {styles.button} >Apply!</Button>
@@ -28,8 +28,8 @@ const Explainer = () => {
         </div>
         <div className = {styles.textContainer} id = {styles.container2}>
             <div className = {styles.explainerText} >
-            Being a UCLA tour guide connects you to a student network with diverse identities, interests, and involvements while also allowing you
-            the opportunity to have a meaningful impact on prospective students from around the world. 
+            As a UCLA Campus Tour Guide, you will be welcomed into a tight-knit community of students with diverse 
+            interests but the common goal of inspiring students of all backgrounds to pursue higher education.
             </div>
             <div style = {{display: "flex", marginTop: "20px", maxWidth : "600px"}}>
              <Button className = {styles.button} href = "/guides">Meet the Guides!</Button>

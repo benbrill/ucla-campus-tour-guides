@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Guides = ({data}) => {
   
-  let dataSorted = data.allDataYaml.nodes[1].Guides.sort((a, b) => {
+  let dataSorted = data.allDataYaml.nodes[0].Guides.sort((a, b) => {
     const nameA = a.name.toUpperCase(); // ignore upper and lowercase
     const nameB = b.name.toUpperCase(); // ignore upper and lowercase
     if (nameA < nameB) {
@@ -31,8 +31,8 @@ const Guides = ({data}) => {
     <div>
       <div style = {{fontSize: "3rem", textAlign: "center", fontWeight: "bold"}}>Meet the Guides</div>
       <div style = {{textAlign: "center", maxWidth: "600px", margin: "auto"}}>
-        Here's a little explainer about why you should meet our tour guides and they are super diverse and great
-        and you should apply
+        Our campus tour guides represent a diverse group of identities, interests, and involvements who are passionate about sharing their experiences with prospective students.
+        Learn more about them here!
       </div>
     </div>
 
