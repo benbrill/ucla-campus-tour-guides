@@ -21,8 +21,8 @@
 
 .button {
   margin: auto;
-  border-radius: 0;
-  background-color: #2774AE;
+  border-radius: 0 !important;
+  background-color: #2774AE !important;
 }
 
 .textContainer {

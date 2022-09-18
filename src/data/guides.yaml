@@ -1,5 +1,46 @@
 Guides:
 -
+    first: Kevin
+    last: Arifin
+    name: Kevin Arifin
+    position: Group Tour Coord
+    pronoun: he/him
+    year: 4th year
+    transfer: No
+    major: Psychobiology & Education and Social Transformation
+    minor: Science Education
+    hometown: Walnut, CA
+    involvements: Bruin Association of Students in Education, Association of Indonesian Americans, Indonesian Cultural Night, Southeast Asian Admit Weekend, Science Education Internship, Education Research, Learning Assistant Program
+    fun_fact: 'I''m allergic to bananas, so don''t bring them on my tours! '
+    image_path: ../images/guide_photos/karifin.jpg
+-
+    first: Itai
+    last: Tismansky
+    name: Itai Tismansky
+    position: Scheduling Coord
+    pronoun: he/him
+    year: 3rd year
+    transfer: No
+    major: Economics
+    minor: Accounting
+    hometown: Agoura Hills, CA
+    involvements: JusticeCorps LA, Economics Department Research, Anderson School of Management Learning Assistant
+    fun_fact: I used to work at a bakery that won three Food Network competitions
+    image_path: ../images/guide_photos/itismansky.jpg
+-
+    first: Jessica
+    last: Warshal
+    name: Jessica Warshal
+    position: Internal Ops Coord
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Dance
+    hometown: Oak Park, CA
+    involvements: A lot
+    fun_fact: I'm sick
+    image_path: ../images/guide_photos/jwarshal.jpg
+-
     first: Layla
     last: Sumilang
     name: Layla Sumilang
@@ -141,7 +182,7 @@ Guides:
     major: Political Science
     minor: Spanish
     hometown: Mission Viejo, CA
-    involvements: Green Life, Bruin Association of Students im Education
+    involvements: Greek Life, Bruin Association of Students in Education
     fun_fact: At one point had 16 bunnies 
     image_path: ../images/guide_photos/astgermaine.jpg
 -
@@ -208,7 +249,7 @@ Guides:
     hometown: North Bend, WA
     involvements: Undergraduate Students Association Council (USAC), AAP Community Development and Social Justice Scholar, Political Science Internships 
     fun_fact: I’m left handed and speak 4 languages  
-    image_path: ../images/guide_photos/mjames.jpg
+    image_path: ../images/guide_photos/rkarim.jpg
 -
     first: Emily
     last: Sweet
@@ -273,7 +314,7 @@ Guides:
     hometown: Salt Lake City, UT
     involvements: Camp Kesem, Ucla Jonsson Comprehensive Cancer Center, Peaks and Professors, Synthesis Dance Theater, Vice President of my sorority (can just put Greek Life) 
     fun_fact: I have been skiing since I was 3! 
-    image_path: ../images/guide_photos/sfindley.jpg
+    image_path: ../images/guide_photos/aperschon.jpg
 -
     first: Sierra
     last: Oudin
@@ -406,19 +447,8 @@ Guides:
     involvements: Environmental Research, Fashion and Student Trends, Herbarium Volunteer, SEACLEAR, Business Analyst Internship
     fun_fact: I once got lost in Legoland on a school trip
     image_path: ../images/guide_photos/kle.jpg
--
-    first: Kevin
-    last: Arifin
-    name: Kevin Arifin
-    pronoun: he/him
-    year: 4th year
-    transfer: No
-    major: Psychobiology & Education and Social Transformation
-    minor: Science Education
-    hometown: Walnut, CA
-    involvements: Bruin Association of Students in Education, Association of Indonesian Americans, Indonesian Cultural Night, Southeast Asian Admit Weekend, Science Education Internship, Education Research, Learning Assistant Program
-    fun_fact: 'I''m allergic to bananas, so don''t bring them on my tours! '
-    image_path: ../images/guide_photos/karifin.jpg
+
+
 
 
 

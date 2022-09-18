@@ -1,5 +1,6 @@
 import React from 'react'
 import { useEffect, useState } from 'react';
+import { Button } from 'react-bootstrap';
 
 
 const styles = {
@@ -63,6 +64,16 @@ const Countdown = () => {
       <div style={{fontFamily: "Arial, Helvetica, sans-serif", fontWeight: "Bold", fontSize: "3rem", textAlign: "center"}}>Application due in</div>
       <div style= {styles.countdownBox}>
       {timerComponents.length ? timerComponents : <span>Time's up!</span>}
+      </div>
+      <div style={{display: "flex", justifyContent: "center", alignItems: "center", marginTop: "1rem"}}>
+        <Button href="https://connect.admission.ucla.edu/register/ApplyCampusTours2023" 
+        style = {{fontSize: "1.5rem", backgroundColor: "#2774AE",
+        fontFamily: "Arial, Helvetica, sans-serif",
+        fontWeight: 600,
+        borderRadius: 0}}
+        target="_blank">
+          Apply!
+        </Button>
       </div>
     </div>
   )

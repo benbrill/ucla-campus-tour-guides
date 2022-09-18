@@ -28,7 +28,7 @@ const Guides = ({data}) => {
     </div>
     <Container fluid = "sm" style = {{padding: "3rem"}}>
         <Row xs={2} md = {3} lg={5}>
-            {data.dataYaml.Guides.map(guide => (
+            {data.allDataYaml.nodes[1].Guides.map(guide => (
             <>
             <Col style = {{padding: "0.5rem 0.2rem"}}>
              <div style = {{position: "absolute", zIndex: 1, backgroundColor: "#2774AE", color: "#ffffff", width: "120px", margin: "7px 7px", textAlign: "center", fontSize: "0.8rem"}}>{guide.position}</div> 
@@ -49,21 +49,24 @@ const Guides = ({data}) => {
 
 export const query = graphql`
 query MyQuery {
-    dataYaml {
-      Guides {
-        image_path {
-          childImageSharp {
-            gatsbyImageData(aspectRatio: 1, transformOptions: {cropFocus: CENTER})
+    allDataYaml {
+      nodes {
+        Guides {
+          image_path {
+            childImageSharp {
+              gatsbyImageData(aspectRatio: 1, transformOptions: {cropFocus: CENTER})
+            }
           }
+          name
+          pronoun
+          hometown
+          position
+          major
+          minor
+          involvements
+          fun_fact
+          year
         }
-        name
-        pronoun
-        position
-        major
-        minor
-        involvements
-        fun_fact
-        year
       }
     }
   }

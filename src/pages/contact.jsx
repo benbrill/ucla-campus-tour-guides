@@ -26,6 +26,10 @@ const Contact = () => {
           We'll never share your email with anyone else.
         </Form.Text>
       </Form.Group>
+      <Form.Group controlID="question">
+                <Form.Label>Your question</Form.Label>
+                <Form.Control type="text" as="textarea" rows={3} placeholder = "question"/>
+      </Form.Group>
         
       <Button variant="primary" type="submit">
         Submit
@@ -38,4 +42,4 @@ const Contact = () => {
   )
 }
 
-export default Contact
+export default Contact 

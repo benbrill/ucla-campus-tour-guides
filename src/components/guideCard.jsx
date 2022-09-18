@@ -20,10 +20,10 @@ const GuideCard = ({props}) => {
             </a>
             <div style = {{padding: "10px 0 0 0"}}>
                 <a onClick={handleShow} style = {{cursor: "pointer"}}>
-                <div to = {props.web_path} style= {{fontFamily : "Arial, Helvetica, sans-serif", fontWeight: "bold", fontSize: "1.4rem", lineHeight: "1rem"}}>{props.name}</div>
+                <div to = {props.web_path} style= {{fontFamily : "Arial, Helvetica, sans-serif", fontWeight: "bold", fontSize: "1.3rem", lineHeight: "1.3rem"}}>{props.name}</div>
                 </a>
 
-                <div style = {{fontFamily: "Inter, sans-serif", fontSize: "0.9rem", lineHeight: "1rem", padding:"5px 0px"}}>{props.year} // {props.major}</div>
+                <div style = {{fontFamily: "Inter, sans-serif", fontSize: "0.8rem", lineHeight: "1rem", padding:"5px 0px"}}>{props.year} // {props.major}</div>
             </div>
     
         </div>
@@ -41,13 +41,17 @@ const GuideCard = ({props}) => {
                         <div style = {{fontFamily : "Arial, Helvetica, sans-serif", fontWeight: "bold", fontSize: "2.5rem", lineHeight: "2.3rem"}}>
                             {props.name}<span style={{fontSize: "1rem", fontWeight: "400"}}>{props.pronoun}</span>
                         </div>
-                        <div style = {{padding: "10px 0"}}>
-                        Year: {props.year}<br/>
-                        Major: {props.major}<br/>
+                        <div style = {{padding: "10px 0"}}> 
+                        <span style = {{fontWeight: 600}}>Year: </span>
+                         {props.year}<br/>
+                         <span style = {{fontWeight: 600}}>Hometown: </span>
+                         {props.hometown}<br/>
+                         <span style = {{fontWeight: 600}}>Major: </span> {props.major}<br/>
                         {(props.minor != null) &&
-                            <div>Minor: {props.minor}</div>}
-                        Involvements: {props.involvements}<br/>
-                        Fun Fact: {props.fun_fact}<br/>
+                            <div><span style = {{fontWeight: 600}}>Minor: </span> {props.minor}</div>}
+                        <hr/>
+                        <span style = {{fontWeight: 600}}>Involvements: </span> {props.involvements}<br/>
+                        <span style = {{fontWeight: 600}}>Fun Fact: </span> {props.fun_fact}<br/>
 
                         </div> 
                     </Col>
