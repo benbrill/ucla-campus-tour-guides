@@ -1,9 +1,9 @@
 import React from 'react'
-import Menu from '../components/navbar'
 import Seo from '../components/seo'
 import { graphql } from 'gatsby'
 import { Container } from 'react-bootstrap'
 import Layout from '../components/layout'
+import { Accordion } from 'react-bootstrap'
 
 const FAQ = ({data}) => {
   return (
@@ -18,14 +18,17 @@ const FAQ = ({data}) => {
         </div>
 
         <Container fluid = "sm">
+          <Accordion>
         {data.allDataYaml.nodes[0].FAQs.map(faq => 
             (<>
-            <div style = {{paddingBottom: "10px"}}>
-                <div style={{fontWeight: 600}}>{faq.question}</div>
-                <div>{faq.answer}</div>
-            </div>
+            
+            <Accordion.Item eventKey = {faq.question}>
+                <Accordion.Header style={{fontWeight: 600}}>{faq.question}</Accordion.Header>
+                <Accordion.Body>{faq.answer}</Accordion.Body>
+            </Accordion.Item>
             </>
             ))}
+            </Accordion>
         </Container>
     </div>
     </Layout>
