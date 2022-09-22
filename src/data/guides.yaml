@@ -36,9 +36,10 @@ Guides:
     year: 4th year
     transfer: No
     major: Dance
+    minor: Visual and Performing Arts Education & Music Industry
     hometown: Oak Park, CA
-    involvements: A lot
-    fun_fact: I'm sick
+    involvements: Pediatric Aids Coalition, Campus Events Commission, WACsmash, Bruin Woods, Outspoken
+    fun_fact: I’m part of the 6% of american adults who can’t ride a bike
     image_path: ../images/guide_photos/jwarshal.jpg
 -
     first_name: Layla
@@ -486,6 +487,42 @@ Guides:
     involvements: New Student Academic Programs, UniCamp, Culture and Contact Lab
     fun_fact: I roller skate down by the pier in Santa Monica!
     image_path: ../images/guide_photos/sgalvan.jpeg
+-
+    first_name: Natasha
+    last_name: Cheung
+    name: Natasha Cheung
+    pronoun: she/her
+    year: 3rd year
+    major: Business Economics
+    minor: Entrepreneurship & Social Data Science
+    hometown: Jakarta, Indonesia
+    involvements: Sigma Eta Pi Entrepreneurship Fraternity, 180 Degrees Consulting, BCG Giving Back Consulting Intern, Product Manager @ Astra International
+    fun_fact: I have like 300k pictures in my camera roll and they’re mostly screenshots
+    image_path: ../images/guide_photos/ncheung.jpeg
+- 
+    first_name: Andy
+    last_name: Luff
+    name: Andy Luff
+    year: 4th year
+    pronoun: he/him
+    major: Theatre with an Emphasis on Acting
+    minor: Digital Humanities
+    hometown: Houston, TX
+    involvements: Theta Chi Fraternity, Film/TV Casting Internship
+    fun_fact: I’ve played 9 sports in my life!
+    image_path: ../images/guide_photos/aluff.jpeg
+-
+    first_name: Lauryn
+    last_name: Wang
+    name: Lauryn Wang
+    year: 3rd year
+    pronoun: she/her
+    major: History
+    minor: Community Engagement and Social Change & Asian American Studies
+    hometown: Thousand Oaks, CA
+    involvements: Daily Bruin, Asian Pacific Coalition, Youth Participatory Action Research with the Center for Community Engagement
+    fun_fact: I went to my first Men's Basketball Game game in Pauley Pavillion when I was 6 months old 
+    image_path: ../images/guide_photos/lwang.jpg
 
 
 
