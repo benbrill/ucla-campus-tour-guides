@@ -2,6 +2,7 @@ import React from 'react'
 import { StaticImage } from 'gatsby-plugin-image'
 import * as styles from './index.module.css'
 import { Button } from 'react-bootstrap'
+import InfoSessions from './infosessions'
 
 const Explainer = () => {
   return (
@@ -22,6 +23,7 @@ const Explainer = () => {
         </div>
         
     </div>
+    <InfoSessions />
     <div className = {styles.pictureContainer}>
         <div id = {styles.picture2}>
                 <StaticImage src = "../images/home_page/home_page_2.jpg" aspectRatio={16/8} transformOptions = {{cropFocus: "south"}}/>
