@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Guides = ({data}) => {
   
-  let dataSorted = data.allDataYaml.nodes[1].Guides.sort((a, b) => {
+  let dataSorted = data.allDataYaml.nodes[0].Guides.sort((a, b) => {
     const nameA = a.name.toUpperCase(); // ignore upper and lowercase
     const nameB = b.name.toUpperCase(); // ignore upper and lowercase
     if (nameA < nameB) {
@@ -52,7 +52,7 @@ const Guides = ({data}) => {
             {dataSorted.map(guide => (
             <>
             <Col style = {{padding: "0.5rem 0.2rem"}}>
-             <div style = {{position: "absolute", zIndex: 1, backgroundColor: "#2774AE", color: "#ffffff", width: "120px", margin: "7px 7px", textAlign: "center", fontSize: "0.8rem"}}>{guide.position}</div> 
+             <div style = {{position: "absolute", zIndex: 1, backgroundColor: "#2774AE", color: "#ffffff", maxWidth: "120px", margin: "7px 7px", textAlign: "left", fontSize: "0.8rem", padding: "0px 7px"}}>{guide.position}</div> 
             <GuideCard props = {guide}/>
             </Col>
             </>

@@ -23,7 +23,7 @@ const IndexPage = () => (
       display: "flex"}}>
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
       Applicants worried about the summer requirment are encouraged to apply regardless of summer availability.
-       See the <Link to = "\faq" style = {{color : "#ffffff"}}>FAQ</Link> page for more details
+       See the <Link to = "/faq" style = {{color : "#ffffff"}}>FAQ</Link> page for more details
       </div>
     
       </div>
