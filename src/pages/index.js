@@ -22,7 +22,7 @@ const IndexPage = () => (
     <div style = {{backgroundColor: "#2774AE", width: "100%", minHeight: "30px", color: "#ffffff", textAlign: "center",
       display: "flex"}}>
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
-      Applicants worried about the summer requirment are encouraged to apply regardless of summer availability.
+      Applicants concerned about the summer requirment are encouraged to apply regardless of summer availability.
        See the <Link to = "/faq" style = {{color : "#ffffff"}}>FAQ</Link> page for more details
       </div>
     
@@ -36,7 +36,7 @@ const IndexPage = () => (
     </div>
     <Countdown />
     <div style = {{backgroundColor: "#ff5d00", width: "100%", minHeight: "30px", color: "#ffffff", textAlign: "center",
-      display: "flex", marginTop: "20px", flexDirection: "column", display: "none"}}>
+      display: "flex", marginTop: "20px", flexDirection: "column"}}>
       {/* <StaticImage src="../images/duffl.png" alt="" width = {3} aspectRatio = {1}/> */}
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
       New <Link to = "https://www.duffl.com/?view=Landing" style = {{color: "#ffffff"}} target = "_blank">Duffl</Link> users can use the code "uclacampustours" for $5 off their first order! 
