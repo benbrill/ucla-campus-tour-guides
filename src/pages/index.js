@@ -22,7 +22,7 @@ const IndexPage = () => (
     <div style = {{backgroundColor: "#2774AE", width: "100%", minHeight: "30px", color: "#ffffff", textAlign: "center",
       display: "flex"}}>
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
-      Applicants concerned about the summer requirment are encouraged to apply regardless of summer availability.
+      Applicants concerned about the summer requirement are encouraged to apply regardless of summer availability.
        See the <Link to = "/faq" style = {{color : "#ffffff"}}>FAQ</Link> page for more details
       </div>
     
