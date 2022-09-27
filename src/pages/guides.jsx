@@ -4,6 +4,7 @@ import Seo from '../components/seo'
 import GuideCard from '../components/guideCard'
 import { Row, Col, CardGroup, Container} from 'react-bootstrap'
 import Menu from '../components/navbar'
+import { StaticImage } from 'gatsby-plugin-image'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Guides = ({data}) => {
@@ -29,18 +30,25 @@ const Guides = ({data}) => {
 
 
     <div>
-      <div style = {{fontSize: "3rem", textAlign: "center", fontWeight: "bold"}}>Meet the Guides</div>
-      <div style = {{textAlign: "center", maxWidth: "600px", margin: "auto"}}>
-        Our campus tour guides represent a diverse group of identities, interests, and involvements who are passionate about sharing their experiences with prospective students.
-        Click on a guide to learn more about them!
-      </div>
-    </div>
-    <div>
+      <StaticImage src = "../images/meet_the_guides.jpg" layout='full_width' aspectRatio={28/9} transformOptions = {{cropFocus: "center"}} quality = {100} placeholder = "blurred"/>
+    <div
+        style={{
+          margin: `0 auto`,
+          maxWidth: `var(--size-content)`,
+          padding: `10px var(--size-gutter)`,
+        }}
+      >
+        <div style = {{fontSize: "2.5rem", textAlign: "center", fontWeight: "bold", lineHeight: "3rem"}}>Meet the Guides</div>
+        <div style = {{textAlign: "center", maxWidth: "600px", margin: "auto"}}>
+          Our campus tour guides represent a diverse group of identities, interests, and involvements who are passionate about sharing their experiences with prospective students.
+          Click on a guide to learn more about them!
+        </div>
       <div style = {{fontSize: "2rem", textAlign: "center", fontWeight: "bold", paddingTop: "10px"}}>About the positions</div>
       <div style = {{textAlign: "center", maxWidth: "600px", margin: "auto"}}>
       Our three coordinators Itai, Jessica and Kevin manage the programs' scheduling, internal operations, and special program logistics, respectively. They work alongside UCLA Undergraduate Admissions to direct Campus Tours. 
       We have six lead tour guides (LTGs) ; each of our LTGs lead a cohort of new hires in guiding them through training and assimilating into the program. They also  assist in overseeing our office, emails and phone calls.
 
+      </div>
       </div>
     </div>
 

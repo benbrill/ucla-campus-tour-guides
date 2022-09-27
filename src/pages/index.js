@@ -39,7 +39,7 @@ const IndexPage = () => (
       display: "flex", marginTop: "20px", flexDirection: "column"}}>
       {/* <StaticImage src="../images/duffl.png" alt="" width = {3} aspectRatio = {1}/> */}
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
-      New <Link to = "https://www.duffl.com/?view=Landing" style = {{color: "#ffffff"}} target = "_blank">Duffl</Link> users can use the code "uclacampustours" for $5 off their first order! 
+      New <Link to = "https://www.duffl.com/?view=Landing" style = {{color: "#ffffff"}} target = "_blank">Duffl</Link> users can use the code "campustours" for $5 off their first order! 
       </div>
     
       </div>

@@ -26,7 +26,7 @@ const Explainer = () => {
     <InfoSessions />
     <div className = {styles.pictureContainer}>
         <div id = {styles.picture2}>
-                <StaticImage src = "../images/home_page/home_page_2.jpg" aspectRatio={16/8} transformOptions = {{cropFocus: "south"}}/>
+                <StaticImage src = "../images/home_page/home_page_3.jpg" aspectRatio={16/8} transformOptions = {{cropFocus: "south"}}/>
         </div>
         <div className = {styles.textContainer} id = {styles.container2}>
             <div className = {styles.explainerText} >
