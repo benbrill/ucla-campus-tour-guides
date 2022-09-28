@@ -86,7 +86,7 @@ query MyQuery {
         Guides {
           image_path {
             childImageSharp {
-              gatsbyImageData(aspectRatio: 1, transformOptions: {cropFocus: CENTER}, placeholder: BLURRED)
+              gatsbyImageData(aspectRatio: 1, transformOptions: {cropFocus: CENTER})
             }
           }
           name
