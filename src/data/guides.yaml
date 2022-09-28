@@ -435,94 +435,94 @@ Guides:
 #     involvements: Greek Life, Sales and Marketing Internship
 #     fun_fact: I have never met a person who is a less-picky eater than myself. 
 #     image_path: ../images/guide_photos/adrulias.jpg
-# -
-#     first_name: Kristi
-#     last_name: Le
-#     name: Kristi Le
-#     pronoun: she/her
-#     year: 4th year
-#     transfer: No
-#     major: Computational and Systems Biology
-#     minor: Environmental Engineering
-#     hometown: San Diego, CA
-#     involvements: Environmental Research, Fashion and Student Trends, Herbarium Volunteer, SEACLEAR, Business Analyst Internship
-#     fun_fact: I once got lost in Legoland on a school trip
-#     image_path: ../images/guide_photos/kle.jpg
-# -
-#     first_name: Ben
-#     last_name: Brill
-#     name: Ben Brill
-#     pronoun: he/him
-#     position: Lead Tour Guide
-#     year: 4th year
-#     transfer: No
-#     major: Statistics & Cognitive Science
-#     hometown: Lomita, CA
-#     involvements: Daily Bruin, Mathematics Research, Learning Assistant, Data Science Internship
-#     fun_fact: I've climbed Half Dome
-#     image_path: ../images/guide_photos/bbrill.jpg
-# - 
-#     first_name: Becca
-#     last_name: Epner
-#     name: Becca Epner
-#     pronoun: she/her
-#     year: 4th year
-#     transfer: No
-#     major: Cognitive Science
-#     hometown: San Diego, CA
-#     involvements: Undergraduate Research Journal of Psychology, Teaching and Learning Lab, Intern at Sony Pictures
-#     fun_fact: I’ve never been stung by a bee and I don’t plan on being stung any time soon!
-#     image_path: ../images/guide_photos/bepner.jpg
-# - 
-#     first_name: Sam
-#     last_name: Galvan
-#     name: Sam Galvan
-#     pronoun: she/her
-#     position: Lead Tour Guide
-#     year: 4th year
-#     transfer: No
-#     major: Cognitive Science
-#     minor: Film
-#     hometown: Menifee, CA
-#     involvements: New Student Academic Programs, UniCamp, Culture and Contact Lab
-#     fun_fact: I roller skate down by the pier in Santa Monica!
-#     image_path: ../images/guide_photos/sgalvan.jpeg
-# -
-#     first_name: Natasha
-#     last_name: Cheung
-#     name: Natasha Cheung
-#     pronoun: she/her
-#     year: 3rd year
-#     major: Business Economics
-#     minor: Entrepreneurship & Social Data Science
-#     hometown: Jakarta, Indonesia
-#     involvements: Sigma Eta Pi Entrepreneurship Fraternity, 180 Degrees Consulting, BCG Giving Back Consulting Intern, Product Manager @ Astra International
-#     fun_fact: I have like 300k pictures in my camera roll and they’re mostly screenshots
-#     image_path: ../images/guide_photos/ncheung.jpeg
-# - 
-#     first_name: Andy
-#     last_name: Luff
-#     name: Andy Luff
-#     year: 4th year
-#     pronoun: he/him
-#     major: Theatre with an Emphasis on Acting
-#     minor: Digital Humanities
-#     hometown: Houston, TX
-#     involvements: Theta Chi Fraternity, Film/TV Casting Internship
-#     fun_fact: I’ve played 9 sports in my life!
-#     image_path: ../images/guide_photos/aluff.jpeg
-# -
-#     first_name: Lauryn
-#     last_name: Wang
-#     name: Lauryn Wang
-#     year: 3rd year
-#     pronoun: she/her
-#     major: History
-#     minor: Community Engagement and Social Change & Asian American Studies
-#     hometown: Thousand Oaks, CA
-#     involvements: Daily Bruin, Asian Pacific Coalition, Youth Participatory Action Research with the Center for Community Engagement
-#     fun_fact: I went to my first Men's Basketball Game game in Pauley Pavillion when I was 6 months old 
-#     image_path: ../images/guide_photos/lwang.jpg
+-
+    first_name: Kristi
+    last_name: Le
+    name: Kristi Le
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Computational and Systems Biology
+    minor: Environmental Engineering
+    hometown: San Diego, CA
+    involvements: Environmental Research, Fashion and Student Trends, Herbarium Volunteer, SEACLEAR, Business Analyst Internship
+    fun_fact: I once got lost in Legoland on a school trip
+    image_path: ../images/guide_photos/kle.jpg
+-
+    first_name: Ben
+    last_name: Brill
+    name: Ben Brill
+    pronoun: he/him
+    position: Lead Tour Guide
+    year: 4th year
+    transfer: No
+    major: Statistics & Cognitive Science
+    hometown: Lomita, CA
+    involvements: Daily Bruin, Mathematics Research, Learning Assistant, Data Science Internship
+    fun_fact: I've climbed Half Dome
+    image_path: ../images/guide_photos/bbrill.jpg
+- 
+    first_name: Becca
+    last_name: Epner
+    name: Becca Epner
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Cognitive Science
+    hometown: San Diego, CA
+    involvements: Undergraduate Research Journal of Psychology, Teaching and Learning Lab, Intern at Sony Pictures
+    fun_fact: I’ve never been stung by a bee and I don’t plan on being stung any time soon!
+    image_path: ../images/guide_photos/bepner.jpg
+- 
+    first_name: Sam
+    last_name: Galvan
+    name: Sam Galvan
+    pronoun: she/her
+    position: Lead Tour Guide
+    year: 4th year
+    transfer: No
+    major: Cognitive Science
+    minor: Film
+    hometown: Menifee, CA
+    involvements: New Student Academic Programs, UniCamp, Culture and Contact Lab
+    fun_fact: I roller skate down by the pier in Santa Monica!
+    image_path: ../images/guide_photos/sgalvan.jpeg
+-
+    first_name: Natasha
+    last_name: Cheung
+    name: Natasha Cheung
+    pronoun: she/her
+    year: 3rd year
+    major: Business Economics
+    minor: Entrepreneurship & Social Data Science
+    hometown: Jakarta, Indonesia
+    involvements: Sigma Eta Pi Entrepreneurship Fraternity, 180 Degrees Consulting, BCG Giving Back Consulting Intern, Product Manager @ Astra International
+    fun_fact: I have like 300k pictures in my camera roll and they’re mostly screenshots
+    image_path: ../images/guide_photos/ncheung.jpeg
+- 
+    first_name: Andy
+    last_name: Luff
+    name: Andy Luff
+    year: 4th year
+    pronoun: he/him
+    major: Theatre with an Emphasis on Acting
+    minor: Digital Humanities
+    hometown: Houston, TX
+    involvements: Theta Chi Fraternity, Film/TV Casting Internship
+    fun_fact: I’ve played 9 sports in my life!
+    image_path: ../images/guide_photos/aluff.jpeg
+-
+    first_name: Lauryn
+    last_name: Wang
+    name: Lauryn Wang
+    year: 3rd year
+    pronoun: she/her
+    major: History
+    minor: Community Engagement and Social Change & Asian American Studies
+    hometown: Thousand Oaks, CA
+    involvements: Daily Bruin, Asian Pacific Coalition, Youth Participatory Action Research with the Center for Community Engagement
+    fun_fact: I went to my first Men's Basketball Game game in Pauley Pavillion when I was 6 months old 
+    image_path: ../images/guide_photos/lwang.jpg
 
 
 
