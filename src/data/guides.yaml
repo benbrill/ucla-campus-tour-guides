@@ -133,33 +133,33 @@ Guides:
 # #     involvements: Consult Your Community, Alpha Delta Pi, UI/UX Internship
 # #     fun_fact: I was in a Still Woozy music video!
 # #     image_path: ../images/guide_photos/rchaudhari.jpg
-# -
-#     first_name: Tyler
-#     last_name: Wong
-#     name: Tyler Wong
-#     pronoun: he/him
-#     position: Lead Tour Guide
-#     year: 4th year
-#     transfer: Yes
-#     major: Political Science
-#     minor: Environmental Systems and Society
-#     hometown: Newport Beach, CA
-#     involvements: The Green Initiative Fund (TGIF), Bruin Beekeepers, DIG Campus Garden Collective, Corporate Sustainability Research for Impact@Anderson
-#     fun_fact: In middle school, I used to run a Parks and Recreation fan account that had 30k followers at its peak.
-#     image_path: ../images/guide_photos/twong.jpg
 -
-    first_name: Nathan
-    last_name: Wu
-    name: Nathan Wu
+    first_name: Tyler
+    last_name: Wong
+    name: Tyler Wong
     pronoun: he/him
-    year: 3rd year
-    transfer: No
-    major: Statistics & Cognitive Science
-    minor: History of Science, Technology, and Medicine & Digital Humanities
-    hometown: Walnut Creek, CA
-    involvements: Club Swimming, Admissions Assistant, GOC Christian Fellowship
-    fun_fact: My twin brother goes to USC
-    image_path: ../images/guide_photos/nwu.jpg
+    position: Lead Tour Guide
+    year: 4th year
+    transfer: Yes
+    major: Political Science
+    minor: Environmental Systems and Society
+    hometown: Newport Beach, CA
+    involvements: The Green Initiative Fund (TGIF), Bruin Beekeepers, DIG Campus Garden Collective, Corporate Sustainability Research for Impact@Anderson
+    fun_fact: In middle school, I used to run a Parks and Recreation fan account that had 30k followers at its peak.
+    image_path: ../images/guide_photos/twong.jpg
+# -
+#     first_name: Nathan
+#     last_name: Wu
+#     name: Nathan Wu
+#     pronoun: he/him
+#     year: 3rd year
+#     transfer: No
+#     major: Statistics & Cognitive Science
+#     minor: History of Science, Technology, and Medicine & Digital Humanities
+#     hometown: Walnut Creek, CA
+#     involvements: Club Swimming, Admissions Assistant, GOC Christian Fellowship
+#     fun_fact: My twin brother goes to USC
+#     image_path: ../images/guide_photos/nwu.jpg
 # -
 #     first_name: Krutika
 #     last_name: Joshi
