@@ -264,58 +264,58 @@ Guides:
 # #     involvements: Daily Bruin, Alpha Delta Pi, Communications PR internship, Social Media coordinator internship 
 # #     fun_fact: I have an adorable rescue dog named Riley! 
 # #     image_path: ../images/guide_photos/esweet.jpg
--
-    first_name: Logan
-    last_name: Chin
-    name: Logan Chin
-    pronoun: he/him
-    year: 2nd year
-    transfer: No
-    major: Human Biology and Society
-    minor: Mathematics & Theater
-    hometown: San Carlos, CA
-    involvements: A Cappella, Bruin Woods
-    fun_fact: I can write upside down
-    image_path: ../images/guide_photos/lchin.jpg
--
-    first_name: Lanie
-    last_name: Kappel
-    name: Lanie Kappel
-    pronoun: she/her
-    year: 3rd year
-    transfer: No
-    major: Communication
-    minor: 
-    hometown: Dix Hills, NY
-    involvements: Greek Life (Chi Omega), CHAARG, Social Media Internship
-    fun_fact: Freshman year for Halloween I dressed up as an inflatable dinosaur and did a photoshoot in front of Royce that got posted on UCLA social media pages
-    image_path: ../images/guide_photos/lkappel.jpg
--
-    first_name: Sawyer
-    last_name: Findley
-    name: Sawyer Findley
-    pronoun: he/him
-    year: 2nd year
-    transfer: No
-    major: Computational and Systems Biology & Environmental Science
-    minor: Statistics 
-    hometown: Newtown, CT
-    involvements: Camp Kesem, CampMed, Undergraduate Blood Initiative, Business Analyst Research Intern, Greek Life
-    fun_fact: I had the cheese touch for over a month in elementary school. It was devastating. 
-    image_path: ../images/guide_photos/sfindley.jpg
--
-    first_name: Abby
-    last_name: Perschon
-    name: Abby Perschon
-    pronoun: she/her
-    year: 4th year
-    transfer: No
-    major: Molecular Cell and Developmental Biology
-    minor: Environmental Systems and Society 
-    hometown: Salt Lake City, UT
-    involvements: Camp Kesem, Ucla Jonsson Comprehensive Cancer Center, Peaks and Professors, Synthesis Dance Theater, Greek Life
-    fun_fact: I have been skiing since I was 3! 
-    image_path: ../images/guide_photos/aperschon.jpg
+# -
+#     first_name: Logan
+#     last_name: Chin
+#     name: Logan Chin
+#     pronoun: he/him
+#     year: 2nd year
+#     transfer: No
+#     major: Human Biology and Society
+#     minor: Mathematics & Theater
+#     hometown: San Carlos, CA
+#     involvements: A Cappella, Bruin Woods
+#     fun_fact: I can write upside down
+#     image_path: ../images/guide_photos/lchin.jpg
+# -
+#     first_name: Lanie
+#     last_name: Kappel
+#     name: Lanie Kappel
+#     pronoun: she/her
+#     year: 3rd year
+#     transfer: No
+#     major: Communication
+#     minor: 
+#     hometown: Dix Hills, NY
+#     involvements: Greek Life (Chi Omega), CHAARG, Social Media Internship
+#     fun_fact: Freshman year for Halloween I dressed up as an inflatable dinosaur and did a photoshoot in front of Royce that got posted on UCLA social media pages
+#     image_path: ../images/guide_photos/lkappel.jpg
+# -
+#     first_name: Sawyer
+#     last_name: Findley
+#     name: Sawyer Findley
+#     pronoun: he/him
+#     year: 2nd year
+#     transfer: No
+#     major: Computational and Systems Biology & Environmental Science
+#     minor: Statistics 
+#     hometown: Newtown, CT
+#     involvements: Camp Kesem, CampMed, Undergraduate Blood Initiative, Business Analyst Research Intern, Greek Life
+#     fun_fact: I had the cheese touch for over a month in elementary school. It was devastating. 
+#     image_path: ../images/guide_photos/sfindley.jpg
+# -
+#     first_name: Abby
+#     last_name: Perschon
+#     name: Abby Perschon
+#     pronoun: she/her
+#     year: 4th year
+#     transfer: No
+#     major: Molecular Cell and Developmental Biology
+#     minor: Environmental Systems and Society 
+#     hometown: Salt Lake City, UT
+#     involvements: Camp Kesem, Ucla Jonsson Comprehensive Cancer Center, Peaks and Professors, Synthesis Dance Theater, Greek Life
+#     fun_fact: I have been skiing since I was 3! 
+#     image_path: ../images/guide_photos/aperschon.jpg
 # -
 #     first_name: Sierra
 #     last_name: Oudin
