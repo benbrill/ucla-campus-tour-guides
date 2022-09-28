@@ -81,45 +81,45 @@ Guides:
 # #     involvements: Deviant Voices A Capella, Pilipinos for Comminity Health, Men in Nursing at UCLA
 # #     fun_fact: I’m in Ariana Grande’s top 0.1% of listeners on Spotify
 # #     image_path: ../images/guide_photos/jcalonia.jpg
-# -
-#     first_name: Karina
-#     last_name: Kong
-#     name: Karina Kong
-#     pronoun: she/her
-#     year: 4th year
-#     transfer: No
-#     major: Psychobiology & Political Science
-#     minor: 
-#     hometown: Pleasanton, CA
-#     involvements: Pediatric AIDS Coalition, Language & Cognitive Development Lab Research Assistant, Law Firm Internship 
-#     fun_fact: I published a children’s book in Spanish that you can buy on Amazon 
-#     image_path: ../images/guide_photos/kkong.jpg
-# -
-#     first_name: Abby
-#     last_name: Avin
-#     name: Abby Avin
-#     pronoun: she/her
-#     year: 2nd year
-#     transfer: No
-#     major: Business Economics
-#     minor: Spanish & Entrepreneurship
-#     hometown: Marblehead, MA
-#     involvements: UConsulting, Tamid, Alpha Phi, Chaarg
-#     fun_fact: I speak fluent Russian
-#     image_path: ../images/guide_photos/aavin.jpg
-# -
-#     first_name: Sarah
-#     last_name: Huang
-#     name: Sarah Huang
-#     pronoun: she/her
-#     year: 4th year
-#     transfer: No
-#     major: Human Biology and Society 
-#     minor: 
-#     hometown: Boulder, CO 
-#     involvements: Pathway @ UCLA Extension, Student Alumni Association, FEM Newsmagazine, Genetic Counseling Student Interest Group, Learning Assistant Program 
-#     fun_fact: 'I''ve climbed 13 of Colorado''s 14ers, peaks above 14,000 feet in elevation! '
-#     image_path: ../images/guide_photos/shuang.jpg
+-
+    first_name: Karina
+    last_name: Kong
+    name: Karina Kong
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Psychobiology & Political Science
+    minor: 
+    hometown: Pleasanton, CA
+    involvements: Pediatric AIDS Coalition, Language & Cognitive Development Lab Research Assistant, Law Firm Internship 
+    fun_fact: I published a children’s book in Spanish that you can buy on Amazon 
+    image_path: ../images/guide_photos/kkong.jpg
+-
+    first_name: Abby
+    last_name: Avin
+    name: Abby Avin
+    pronoun: she/her
+    year: 2nd year
+    transfer: No
+    major: Business Economics
+    minor: Spanish & Entrepreneurship
+    hometown: Marblehead, MA
+    involvements: UConsulting, Tamid, Alpha Phi, Chaarg
+    fun_fact: I speak fluent Russian
+    image_path: ../images/guide_photos/aavin.jpg
+-
+    first_name: Sarah
+    last_name: Huang
+    name: Sarah Huang
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Human Biology and Society 
+    minor: 
+    hometown: Boulder, CO 
+    involvements: Pathway @ UCLA Extension, Student Alumni Association, FEM Newsmagazine, Genetic Counseling Student Interest Group, Learning Assistant Program 
+    fun_fact: 'I''ve climbed 13 of Colorado''s 14ers, peaks above 14,000 feet in elevation! '
+    image_path: ../images/guide_photos/shuang.jpg
 # # -
 # #     first_name: Raashi
 # #     last_name: Chaudhari
@@ -511,41 +511,41 @@ Guides:
 #     involvements: Theta Chi Fraternity, Film/TV Casting Internship
 #     fun_fact: I’ve played 9 sports in my life!
 #     image_path: ../images/guide_photos/aluff.jpg
-# -
-#     first_name: Lauryn
-#     last_name: Wang
-#     name: Lauryn Wang
-#     year: 3rd year
-#     pronoun: she/her
-#     major: History
-#     minor: Community Engagement and Social Change & Asian American Studies
-#     hometown: Thousand Oaks, CA
-#     involvements: Daily Bruin, Asian Pacific Coalition, Youth Participatory Action Research with the Center for Community Engagement
-#     fun_fact: I went to my first Men's Basketball Game game in Pauley Pavillion when I was 6 months old 
-#     image_path: ../images/guide_photos/lwang.jpg
-# - 
-#     first_name: Kole
-#     last_name: Alfonso
-#     name: Kole Alfonso
-#     year: 2nd year
-#     pronoun: he/him
-#     major: Political Science
-#     involvements: Mock Trial, Bruin Woods, Chess Club 
-#     hometown: Rancho Cucamonga, CA
-#     fun_fact: Favorite show of all time is The West Wing, which inspired a passion for politics! 
-#     image_path: ../images/guide_photos/kalfonso.jpg
-# - 
-#     first_name: Rachel
-#     last_name: Kho
-#     name: Rachel Kho
-#     year: 4th year
-#     pronoun: she/her
-#     major: Human Biology and Society
-#     minor: Theater
-#     hometown: Claremont, CA
-#     involvements: Association of Indonesian Americans, Deviant Voices A Cappella, SCOPE-PHA, Lavender Health Alliance, Bioethics & In Vitro Gametogenesis lab, Korean Culture Night, Samahang Pilipino Culture Night, Indonesian Culture Night 
-#     fun_fact: Em dashes are my favorite punctuation mark!
-#     image_path: ../images/guide_photos/rkho.jpg
+-
+    first_name: Lauryn
+    last_name: Wang
+    name: Lauryn Wang
+    year: 3rd year
+    pronoun: she/her
+    major: History
+    minor: Community Engagement and Social Change & Asian American Studies
+    hometown: Thousand Oaks, CA
+    involvements: Daily Bruin, Asian Pacific Coalition, Youth Participatory Action Research with the Center for Community Engagement
+    fun_fact: I went to my first Men's Basketball Game game in Pauley Pavillion when I was 6 months old 
+    image_path: ../images/guide_photos/lwang.jpg
+- 
+    first_name: Kole
+    last_name: Alfonso
+    name: Kole Alfonso
+    year: 2nd year
+    pronoun: he/him
+    major: Political Science
+    involvements: Mock Trial, Bruin Woods, Chess Club 
+    hometown: Rancho Cucamonga, CA
+    fun_fact: Favorite show of all time is The West Wing, which inspired a passion for politics! 
+    image_path: ../images/guide_photos/kalfonso.jpg
+- 
+    first_name: Rachel
+    last_name: Kho
+    name: Rachel Kho
+    year: 4th year
+    pronoun: she/her
+    major: Human Biology and Society
+    minor: Theater
+    hometown: Claremont, CA
+    involvements: Association of Indonesian Americans, Deviant Voices A Cappella, SCOPE-PHA, Lavender Health Alliance, Bioethics & In Vitro Gametogenesis lab, Korean Culture Night, Samahang Pilipino Culture Night, Indonesian Culture Night 
+    fun_fact: Em dashes are my favorite punctuation mark!
+    image_path: ../images/guide_photos/rkho.jpg
 
 
 
