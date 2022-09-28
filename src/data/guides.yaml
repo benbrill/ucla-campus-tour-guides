@@ -13,61 +13,61 @@ Guides:
     involvements: Bruin Association of Students in Education, Association of Indonesian Americans, Indonesian Cultural Night, Southeast Asian Admit Weekend, Science Education Internship, Education Research, Learning Assistant Program
     fun_fact: 'I''m allergic to bananas, so don''t bring them on my tours! '
     image_path: ../images/guide_photos/karifin.jpg
-# -
-#     first_name: Itai
-#     last_name: Tismansky
-#     name: Itai Tismansky
-#     position: Scheduling
-#     pronoun: he/him
-#     year: 3rd year
-#     transfer: No
-#     major: Economics
-#     minor: Accounting
-#     hometown: Agoura Hills, CA
-#     involvements: JusticeCorps LA, Economics Department Research, Anderson School of Management Learning Assistant
-#     fun_fact: I used to work at a bakery that won three Food Network competitions
-#     image_path: ../images/guide_photos/itismansky.jpg
-# -
-#     first_name: Jessica
-#     last_name: Warshal
-#     name: Jessica Warshal
-#     position: Internal Ops
-#     pronoun: she/her
-#     year: 4th year
-#     transfer: No
-#     major: Dance
-#     minor: Visual and Performing Arts Education & Music Industry
-#     hometown: Oak Park, CA
-#     involvements: Pediatric Aids Coalition, Campus Events Commission, WACsmash, Bruin Woods, Outspoken
-#     fun_fact: I’m part of the 6% of american adults who can’t ride a bike
-#     image_path: ../images/guide_photos/jwarshal.jpg
-# -
-#     first_name: Layla
-#     last_name: Sumilang
-#     name: Layla Sumilang
-#     pronoun: she/her
-#     position: Lead Tour Guide
-#     year: 3rd year
-#     transfer: No
-#     major: Global Studies
-#     minor: Anthropology & Spanish 
-#     hometown: St. Petersburg, FL
-#     involvements: Samahang Pilipino Cultural Night, Bruin Ambassadors, Teach for American Ignite Fellowship 
-#     fun_fact: All five of my top 5 most listened to songs on Spotify last year were Olivia Rodrigo songs. Super fan or super sad?
-#     image_path: ../images/guide_photos/lsumilang.jpg
-# -
-#     first_name: Adin
-#     last_name: Ryssdal
-#     name: Adin Ryssdal
-#     pronoun: he/him
-#     year: 4th year
-#     transfer: No
-#     major: Political Science & International Development Studies 
-#     minor: 
-#     hometown: La Cañada, CA
-#     involvements: Student Alumni Association, State Department Research Internship
-#     fun_fact: UCLA and I have the same birthday (May 23)!
-#     image_path: ../images/guide_photos/aryssdal.jpg
+-
+    first_name: Itai
+    last_name: Tismansky
+    name: Itai Tismansky
+    position: Scheduling
+    pronoun: he/him
+    year: 3rd year
+    transfer: No
+    major: Economics
+    minor: Accounting
+    hometown: Agoura Hills, CA
+    involvements: JusticeCorps LA, Economics Department Research, Anderson School of Management Learning Assistant
+    fun_fact: I used to work at a bakery that won three Food Network competitions
+    image_path: ../images/guide_photos/itismansky.jpg
+-
+    first_name: Jessica
+    last_name: Warshal
+    name: Jessica Warshal
+    position: Internal Ops
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Dance
+    minor: Visual and Performing Arts Education & Music Industry
+    hometown: Oak Park, CA
+    involvements: Pediatric Aids Coalition, Campus Events Commission, WACsmash, Bruin Woods, Outspoken
+    fun_fact: I’m part of the 6% of american adults who can’t ride a bike
+    image_path: ../images/guide_photos/jwarshal.jpg
+-
+    first_name: Layla
+    last_name: Sumilang
+    name: Layla Sumilang
+    pronoun: she/her
+    position: Lead Tour Guide
+    year: 3rd year
+    transfer: No
+    major: Global Studies
+    minor: Anthropology & Spanish 
+    hometown: St. Petersburg, FL
+    involvements: Samahang Pilipino Cultural Night, Bruin Ambassadors, Teach for American Ignite Fellowship 
+    fun_fact: All five of my top 5 most listened to songs on Spotify last year were Olivia Rodrigo songs. Super fan or super sad?
+    image_path: ../images/guide_photos/lsumilang.jpg
+-
+    first_name: Adin
+    last_name: Ryssdal
+    name: Adin Ryssdal
+    pronoun: he/him
+    year: 4th year
+    transfer: No
+    major: Political Science & International Development Studies 
+    minor: 
+    hometown: La Cañada, CA
+    involvements: Student Alumni Association, State Department Research Internship
+    fun_fact: UCLA and I have the same birthday (May 23)!
+    image_path: ../images/guide_photos/aryssdal.jpg
 # # -
 # #     first_name: John
 # #     last_name: Calonia
