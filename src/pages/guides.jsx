@@ -8,6 +8,8 @@ import { StaticImage } from 'gatsby-plugin-image'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Guides = ({data}) => {
+
+
   
   let dataSorted = data.allDataYaml.nodes[1].Guides.sort((a, b) => {
     const nameA = a.name.toUpperCase(); // ignore upper and lowercase
