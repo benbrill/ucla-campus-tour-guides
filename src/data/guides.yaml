@@ -68,19 +68,19 @@ Guides:
     involvements: Student Alumni Association, State Department Research Internship
     fun_fact: UCLA and I have the same birthday (May 23)!
     image_path: ../images/guide_photos/aryssdal.jpg
-# # # -
-# # #     first_name: John
-# # #     last_name: Calonia
-# # #     name: John Calonia
-# # #     pronoun: he/him
-# # #     year: 3rd year
-# # #     transfer: No
-# # #     major: Nursing
-# # #     minor: 
-# # #     hometown: Fairfield, CA
-# # #     involvements: Deviant Voices A Capella, Pilipinos for Comminity Health, Men in Nursing at UCLA
-# # #     fun_fact: I’m in Ariana Grande’s top 0.1% of listeners on Spotify
-# # #     image_path: ../images/guide_photos/jcalonia.jpg
+-
+    first_name: John
+    last_name: Calonia
+    name: John Calonia
+    pronoun: he/him
+    year: 3rd year
+    transfer: No
+    major: Nursing
+    minor: 
+    hometown: Fairfield, CA
+    involvements: Deviant Voices A Capella, Pilipinos for Comminity Health, Men in Nursing at UCLA
+    fun_fact: I’m in Ariana Grande’s top 0.1% of listeners on Spotify
+    image_path: ../images/guide_photos/jcalonia.jpg
 -
     first_name: Karina
     last_name: Kong
