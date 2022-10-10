@@ -24,13 +24,13 @@ const styles = {
 const Countdown = () => {
     const calculateTimeLeft = () => {
         let year = new Date().getFullYear();
-        const difference = +new Date(`${year}-10-10`) - +new Date();
+        const difference = +new Date(`${year}-10-11`) - +new Date();
         let timeLeft = {};
     
         if (difference > 0) {
           timeLeft = {
             days: Math.floor(difference / (1000 * 60 * 60 * 24)),
-            hours: Math.floor((difference / (1000 * 60 * 60)) % 24),
+            hours: Math.floor((difference / (1000 * 60 * 60)) % 24) + 6,
             minutes: Math.floor((difference / 1000 / 60) % 60),
             seconds: Math.floor((difference / 1000) % 60),
           };

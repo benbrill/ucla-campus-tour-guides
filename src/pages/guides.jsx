@@ -68,7 +68,7 @@ const Guides = ({data}) => {
       <div style = {{fontSize: "2rem", textAlign: "center", fontWeight: "bold"}}>About the positions</div>
       <div style = {{textAlign: "center", maxWidth: "600px", margin: "auto"}}>
       Our three coordinators Itai, Jessica and Kevin manage the programs' scheduling, internal operations, and special program logistics, respectively. They work alongside UCLA Undergraduate Admissions to direct Campus Tours. 
-      We have six lead tour guides (LTGs) ; each of our LTGs lead a cohort of new hires in guiding them through training and assimilating into the program. They also  assist in overseeing our office, emails and phone calls.
+      We have six lead tour guides (LTGs); each of our LTGs lead a cohort of new hires in guiding them through training and assimilating into the program. They also  assist in overseeing our office, emails and phone calls.
 
       </div>
     <Footer />
