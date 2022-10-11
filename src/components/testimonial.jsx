@@ -11,14 +11,14 @@ const Testimonial = () => {
             </div>
             
             <div className = {styles.testimonialTitle}>
-                Join <br />
-                Tours <br /> 
+                Take <br />
+                a Tour <br /> 
                 <span style = {{fontWeight: "bold"}}>Today</span> 
                 </div>
             <div className = {styles.testimonialBody}>
             Each of our tour guides use their own unique, personal experiences to give their guests real insights into the life 
-            of an active UCLA student. If you have a story you would like to share about your UCLA journey,
-            we encourage you to apply to Campus Tours. 
+            of an active UCLA student. Each of our guides has a story they would like to share about their UCLA journey,
+            and we encourage you to follow along. 
             </div>
         </div>
             <div className={styles.testimonialVid}>

@@ -18,12 +18,11 @@ const Explainer = () => {
 
             </div>
             <div style = {{display: "flex", marginTop: "20px", maxWidth : "600px", marginLeft: "auto"}}>
-             <Button className = {styles.button} href = "https://connect.admission.ucla.edu/register/ApplyCampusTours2023" target="_blank">Apply!</Button>
+             <Button className = {styles.button} href = "https://connect.admission.ucla.edu/portal/tours" target="_blank">Book a Tour!</Button>
             </div>
         </div>
         
     </div>
-    <InfoSessions />
     <div className = {styles.pictureContainer}>
         <div id = {styles.picture2}>
                 <StaticImage src = "../images/home_page/home_page_3.jpg" aspectRatio={16/8} transformOptions = {{cropFocus: "south"}}/>

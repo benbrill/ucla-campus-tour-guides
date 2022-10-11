@@ -14,7 +14,7 @@ const FAQ = ({data}) => {
         <div style = {{fontSize: "3rem", textAlign: "center", fontWeight: "bold"}}>Frequently Asked Questions</div>
         <div style = {{textAlign: "center", maxWidth: "600px", margin: "auto", paddingBottom: "20px"}}>
             These are answers to some of the most common questions we get regarding the Campus Tour Guide application. 
-            If you have any further questions, ask us on the contact page!
+            The application to become a UCLA Tour Guide is now closed. Please check in Fall 2023 for our next application cycle
         </div>
 
         <Container fluid = "sm">
