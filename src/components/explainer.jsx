@@ -9,7 +9,7 @@ const Explainer = () => {
     <div style={{position: "relative"}}>
     <div className = {styles.pictureContainer}>
         <div id = {styles.picture1} >
-            <StaticImage src = "../images/home_page/home_page_1.jpg" aspectRatio={16/8} transformOptions = {{cropFocus: "north"}}/>
+            <StaticImage src = "../images/home_page/home_page_3.jpg" aspectRatio={16/8} transformOptions = {{cropFocus: "north"}}/>
         </div>
         <div className = {styles.textContainer}>
             <div className = {styles.explainerText} style = {{marginLeft: "auto"}}>
@@ -25,7 +25,7 @@ const Explainer = () => {
     </div>
     <div className = {styles.pictureContainer}>
         <div id = {styles.picture2}>
-                <StaticImage src = "../images/home_page/home_page_3.jpg" aspectRatio={16/8} transformOptions = {{cropFocus: "south"}}/>
+                <StaticImage src = "../images/home_page/home_page_4.jpg" aspectRatio={16/8} transformOptions = {{cropFocus: "south"}}/>
         </div>
         <div className = {styles.textContainer} id = {styles.container2}>
             <div className = {styles.explainerText} >
