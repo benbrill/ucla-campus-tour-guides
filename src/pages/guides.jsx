@@ -7,6 +7,7 @@ import Menu from '../components/navbar'
 import { StaticImage } from 'gatsby-plugin-image'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from '../components/footer'
+import Unavailable from '../components/unavailable'
 
 const Guides = ({data}) => {
 
@@ -28,7 +29,8 @@ const Guides = ({data}) => {
 
   return (
     <>
-    <Menu />
+    <Unavailable />
+    {/* <Menu />
     <Seo title="Meet the Guides">
 
 
@@ -74,7 +76,7 @@ const Guides = ({data}) => {
     <Footer />
       
     
-    </Seo>
+    </Seo> */}
     </>
   )
 }

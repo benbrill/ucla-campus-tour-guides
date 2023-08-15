@@ -12,13 +12,16 @@ import HeroLanding from "../components/herolanding"
 import Explainer from "../components/explainer"
 import Testimonial from "../components/testimonial"
 import Footer from "../components/footer"
+import Unavailable from "../components/unavailable"
 
 
 
 const IndexPage = () => (
   <>
     <Seo title="Home" />
-    <Menu />
+    <Unavailable />
+
+    {/* <Menu />
     <div style = {{backgroundColor: "#2774AE", width: "100%", minHeight: "30px", color: "#ffffff", textAlign: "center",
       display: "flex"}}>
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
@@ -29,14 +32,12 @@ const IndexPage = () => (
       </div>
     <HeroLanding />
     <div style={{display: "flex", alignItems:"center", justifyContent: "center", flexDirection: "column"}}>
-      {/* hero */}
       
-      
+
       
     </div>
     <div style = {{backgroundColor: "#ff5d00", width: "100%", minHeight: "30px", color: "#ffffff", textAlign: "center",
       display: "flex", marginTop: "50px", flexDirection: "column"}}>
-      {/* <StaticImage src="../images/duffl.png" alt="" width = {3} aspectRatio = {1}/> */}
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
       New <Link to = "https://www.duffl.com/?view=Landing" style = {{color: "#ffffff"}} target = "_blank">Duffl</Link> users can use the code "campustours" for $5 off their first order! 
       </div>
@@ -44,7 +45,7 @@ const IndexPage = () => (
       </div>
     <Explainer />
     <Testimonial />
-    <Footer />
+    <Footer /> */}
     </>
 )
 

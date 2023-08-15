@@ -124,6 +124,7 @@ Guides:
     first_name: Raashi
     last_name: Chaudhari
     name: Raashi Chaudhari
+    position: Logistics
     pronoun: she/her
     year: 3rd year
     transfer: No
@@ -176,6 +177,7 @@ Guides:
     first_name: Laura
     last_name: de Beer
     name: Laura de Beer
+    position: Scheduling
     pronoun: she/her
     year: 3rd year
     transfer: No
@@ -183,7 +185,7 @@ Guides:
     minor: 
     hometown: London, United Kingdom 
     involvements: Student Alumni Association, Bruin Consulting, Hispanic Capital Group, Investment Banking Internship
-    fun_fact: I am trilingual and have three different passports 
+    fun_fact: I've met Jimmy Fallon and Pitbull at Universal Studios
     image_path: ../images/guide_photos/ldb2.jpg
 -
     first_name: William
