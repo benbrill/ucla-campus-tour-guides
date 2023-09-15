@@ -12,21 +12,19 @@ import HeroLanding from "../components/herolanding"
 import Explainer from "../components/explainer"
 import Testimonial from "../components/testimonial"
 import Footer from "../components/footer"
-import Unavailable from "../components/unavailable"
 
 
 
 const IndexPage = () => (
   <>
     <Seo title="Home" />
-    <Unavailable />
 
-    {/* <Menu />
+    <Menu />
     <div style = {{backgroundColor: "#2774AE", width: "100%", minHeight: "30px", color: "#ffffff", textAlign: "center",
       display: "flex"}}>
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
       
-       The application to become a UCLA Tour Guide is now closed. Please check in Fall 2023 for our next application cycle
+       The application to become a UCLA Tour Guide will open shortly. Please check back on this site for updates!
       </div>
     
       </div>
@@ -45,7 +43,7 @@ const IndexPage = () => (
       </div>
     <Explainer />
     <Testimonial />
-    <Footer /> */}
+    <Footer />
     </>
 )
 

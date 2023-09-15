@@ -29,8 +29,7 @@ const Guides = ({data}) => {
 
   return (
     <>
-    <Unavailable />
-    {/* <Menu />
+    <Menu />
     <Seo title="Meet the Guides">
 
 
@@ -76,7 +75,7 @@ const Guides = ({data}) => {
     <Footer />
       
     
-    </Seo> */}
+    </Seo> 
     </>
   )
 }
