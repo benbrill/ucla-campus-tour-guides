@@ -5,7 +5,7 @@ Guides:
     name: Layla Sumilang
     pronoun: she/her
     position: Special Programs
-    year: 3rd year
+    year: 4th year
     transfer: No
     major: Global Studies
     minor: Anthropology & Spanish
@@ -14,24 +14,11 @@ Guides:
     fun_fact: All five of my top 5 most listened to songs on Spotify last year were Olivia Rodrigo songs. Super fan or super sad?
     image_path: ../images/guide_photos/lsumilang.jpg
 -
-    first_name: Adin
-    last_name: Ryssdal
-    name: Adin Ryssdal
-    pronoun: he/him
-    year: 4th year
-    transfer: No
-    major: Political Science & International Development Studies
-    minor:
-    hometown: La Cañada, CA
-    involvements: Student Alumni Association, State Department Research Internship
-    fun_fact: UCLA and I have the same birthday (May 23)!
-    image_path: ../images/guide_photos/aryssdal.jpg
--
     first_name: John
     last_name: Calonia
     name: John Calonia
     pronoun: he/him
-    year: 3rd year
+    year: 4th year
     transfer: No
     major: Nursing
     minor:
@@ -40,24 +27,11 @@ Guides:
     fun_fact: I’m in Ariana Grande’s top 0.1% of listeners on Spotify
     image_path: ../images/guide_photos/jcalonia.jpg
 -
-    first_name: Karina
-    last_name: Kong
-    name: Karina Kong
-    pronoun: she/her
-    year: 4th year
-    transfer: No
-    major: Psychobiology & Political Science
-    minor:
-    hometown: Pleasanton, CA
-    involvements: Pediatric AIDS Coalition, Language & Cognitive Development Lab Research Assistant, Law Firm Internship
-    fun_fact: I published a children’s book in Spanish that you can buy on Amazon
-    image_path: ../images/guide_photos/kkong1.jpg
--
     first_name: Abby
     last_name: Avin
     name: Abby Avin
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Business Economics
     minor: Spanish & Entrepreneurship
@@ -66,25 +40,12 @@ Guides:
     fun_fact: I speak fluent Russian
     image_path: ../images/guide_photos/aavin.jpg
 -
-    first_name: Sarah
-    last_name: Huang
-    name: Sarah Huang
-    pronoun: she/her
-    year: 4th year
-    transfer: No
-    major: Human Biology and Society
-    minor:
-    hometown: Boulder, CO
-    involvements: Pathway @ UCLA Extension, Student Alumni Association, FEM Newsmagazine, Genetic Counseling Student Interest Group, Learning Assistant Program
-    fun_fact: 'I''ve climbed 13 of Colorado''s 14ers, peaks above 14,000 feet in elevation! '
-    image_path: ../images/guide_photos/shuang.jpg
--
     first_name: Raashi
     last_name: Chaudhari
     name: Raashi Chaudhari
-    position: Logistics
     pronoun: she/her
-    year: 3rd year
+    position: Logistics
+    year: 4th year
     transfer: No
     major: Cognitive Science
     minor: Specialization in Computing
@@ -97,12 +58,13 @@ Guides:
     last_name: Wu
     name: Nathan Wu
     pronoun: he/him
-    year: 3rd year
+    position: Lead Tour Guide
+    year: 4th year
     transfer: No
     major: Statistics & Cognitive Science
     minor: History of Science, Technology, and Medicine & Digital Humanities
     hometown: Walnut Creek, CA
-    involvements: Club Swimming, Admissions Assistant, GOC Christian Fellowship
+    involvements: Club Swimming, Admissions Assistant, APO Services Fraternity, Interdiciplinary Research
     fun_fact: My twin brother goes to USC
     image_path: ../images/guide_photos/nwu.jpg
 -
@@ -110,7 +72,7 @@ Guides:
     last_name: Joshi
     name: Krutika Joshi
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Human Biology & Society
     minor:
@@ -123,7 +85,7 @@ Guides:
     last_name: St.Germaine
     name: Ashton St.Germaine
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Political Science
     minor: Spanish
@@ -135,9 +97,9 @@ Guides:
     first_name: Laura
     last_name: de Beer
     name: Laura de Beer
-    position: Scheduling
     pronoun: she/her
-    year: 3rd year
+    position: Scheduling
+    year: 4th year
     transfer: No
     major: Business Economics with a Value Investing Concentration
     minor:
@@ -150,7 +112,7 @@ Guides:
     last_name: McReynolds
     name: William McReynolds
     pronoun: he/him
-    year: 3rd year
+    year: 4th year
     transfer: No
     major: Public Affairs
     minor: Geographic Information Systems and Technologies
@@ -159,63 +121,11 @@ Guides:
     fun_fact: I think running is a personality trait
     image_path: ../images/guide_photos/wmcreynolds.jpg
 -
-    first_name: Jessica
-    last_name: Yang
-    name: Jessica Yang
-    pronoun: she/her
-    year: 4th year
-    transfer: No
-    major: Political Science
-    minor: Society and Genetics
-    hometown: Westchester, CA
-    involvements: UCLA Chorale, Chi Omega, Benefits & HR Consulting Internship
-    fun_fact: I can type 165 words per minute
-    image_path: ../images/guide_photos/jyang.jpg
-# # # -
-# # #     first_name: Montana
-# # #     last_name: James
-# # #     name: Montana James
-# # #     pronoun: she/her
-# # #     year: 4th year
-# # #     transfer: No
-# # #     major: Cognitive Science
-# # #     minor: Film and Digital Media
-# # #     hometown: Santa Clarita, CA
-# # #     involvements: Pitch, Please! A cappella, Neuroscience internship, Greek life
-# # #     fun_fact: I was in a Disney commercial when I was 10
-# # #     image_path: ../images/guide_photos/mjames.jpg
--
-    first_name: Rea
-    last_name: Karim
-    name: Rea Karim
-    pronoun: she/her
-    year: 4th year
-    transfer: Yes
-    major: Political Science
-    minor:
-    hometown: North Bend, WA
-    involvements: Undergraduate Students Association Council (USAC), AAP Community Development and Social Justice Scholar, Political Science Internships
-    fun_fact: I’m left handed and speak 4 languages
-    image_path: ../images/guide_photos/rkarim.jpg
-# # # -
-# # #     first_name: Emily
-# # #     last_name: Sweet
-# # #     name: Emily Sweet
-# # #     pronoun: she/her
-# # #     year: 4th year
-# # #     transfer: No
-# # #     major: Communication
-# # #     minor:
-# # #     hometown: Marin County, CA
-# # #     involvements: Daily Bruin, Alpha Delta Pi, Communications PR internship, Social Media coordinator internship
-# # #     fun_fact: I have an adorable rescue dog named Riley!
-# # #     image_path: ../images/guide_photos/esweet.jpg
--
     first_name: Logan
     last_name: Chin
     name: Logan Chin
     pronoun: he/him
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Human Biology and Society
     minor: Mathematics & Theater
@@ -228,7 +138,7 @@ Guides:
     last_name: Kappel
     name: Lanie Kappel
     pronoun: she/her
-    year: 3rd year
+    year: 4th year
     transfer: No
     major: Communication
     minor:
@@ -241,7 +151,7 @@ Guides:
     last_name: Findley
     name: Sawyer Findley
     pronoun: he/him
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Computational and Systems Biology & Environmental Science
     minor: Statistics
@@ -250,24 +160,11 @@ Guides:
     fun_fact: I had the cheese touch for over a month in elementary school. It was devastating.
     image_path: ../images/guide_photos/sfindley3.jpg
 -
-    first_name: Abby
-    last_name: Perschon
-    name: Abby Perschon
-    pronoun: she/her
-    year: 4th year
-    transfer: No
-    major: Molecular Cell and Developmental Biology
-    minor: Environmental Systems and Society
-    hometown: Salt Lake City, UT
-    involvements: Camp Kesem, Ucla Jonsson Comprehensive Cancer Center, Peaks and Professors, Synthesis Dance Theater, Greek Life
-    fun_fact: I have been skiing since I was 3!
-    image_path: ../images/guide_photos/aperschon.jpg
--
     first_name: Sierra
     last_name: Oudin
     name: Sierra Oudin
     pronoun: she/her
-    year: 3rd year
+    year: 4th year
     transfer: No
     major: Psychobiology
     minor:
@@ -276,24 +173,12 @@ Guides:
     fun_fact: My first concert was Hannah Montana and The Cheetah girls.
     image_path: ../images/guide_photos/soudin.jpg
 -
-    first_name: Anvi
-    last_name: Brahmbhatt
-    name: Anvi Brahmbhatt
-    pronoun: she/her
-    year: 4th year
-    transfer: No
-    major: Molecular, Cell, and Developmental Biology & Communication
-    minor: Disability Studies
-    hometown: Milpitas, CA
-    involvements: SCOPE Patient Health Advocates, UCLA Student Stroke Team, Bruin Belles Service Association, 1girl at UCLA, Emergence of Communication Lab (Lab Assistant), Laboratory of Karen Reue (Lab Assistant)
-    fun_fact: I am obsessed with taco bell hot sauce and have it on top of EVERYTHING.
-    image_path: ../images/guide_photos/anvi.jpg
--
     first_name: Katharine
     last_name: Jacobs
     name: Katharine Jacobs
     pronoun: she/her
-    year: 3rd year
+    position: Lead Tour Guide
+    year: 4th year
     transfer: No
     major: Neuroscience
     minor:
@@ -301,51 +186,12 @@ Guides:
     involvements: The Bruin Experiment, Hillel, Chi Omega
     fun_fact: I can name every single world capital
     image_path: ../images/guide_photos/kjacobs.jpg
--
-    first_name: Joel
-    last_name: Turk
-    name: Joel Turk
-    pronoun: he/him
-    year: 2nd year
-    transfer: Yes
-    major: Psychology
-    hometown: Pasadena, CA
-    involvements: Intervarsity Bruin Christian Fellowship, Filipino Living Learning Community
-    fun_fact: I actually got to give my little cousin her bruin bound tour and I almost fell down Janss steps because of my excitement. It was all worth it because I got to welcome my cousin and her future classmates to campus for the first time!
-    image_path: ../images/guide_photos/jturk.jpg
--
-    first_name: Lexi
-    last_name: Daetz
-    name: Lexi Daetz
-    position: Lead Tour Guide
-    pronoun: she/her
-    year: 4th year
-    transfer: No
-    major: Political Science & International Development Studies
-    minor:
-    hometown: Danville, CA
-    involvements: Pediatric AIDS Coalition, Internship, Political Research, Club Volleyball
-    fun_fact: I grew up with a dog named Bruin
-    image_path: ../images/guide_photos/ldaetz.jpg
--
-    first_name: Isabel
-    last_name: Aks
-    name: Isabel Aks
-    pronoun: she/her
-    year: 4th year
-    transfer: No
-    major: Cognitive Science
-    minor: Specialization in Computing
-    hometown: San Francisco, CA
-    involvements: Research Assistant for the Cognitive and Clinical Neuroscience Lab, Hillel, Sexperts, High-Tech and Neurological Disorders (HAND)
-    fun_fact: I intensively studied theatre for four years in a preprofessional program at a performing arts high school in San Francisco only to end up pursuing scientific research in college.
-    image_path: ../images/guide_photos/iaks.jpg
 # # # -
 # # #     first_name: Randal
 # # #     last_name: Macias
 # # #     name: Randal Macias
 # # #     pronoun: he/him
-# # #     year: 3rd year
+# # #     year: 4th year
 # # #     transfer: No
 # # #     major: Mathematics/Economics
 # # #     minor:
@@ -354,25 +200,11 @@ Guides:
 # # #     fun_fact: I am a fiend for online shopping and love to browse Grailed in most of my free time.
 # # #     image_path: ../images/guide_photos/rmacias.jpg
 -
-    first_name: Chloe
-    last_name: Dawes
-    name: Chloe Dawes
-    pronoun: she/her
-    year: 4th year
-    transfer: No
-    major: Mathematics of Computation
-    minor: Atmospheric and Oceanic Sciences
-    hometown: Palos Verdes, CA
-    involvements: Student Alumni Association, Undergraduate Mathematics Student Association
-    fun_fact: I’m a barista
-    image_path: ../images/guide_photos/cdawes.jpg
--
     first_name: Alexsia
     last_name: Drulias
     name: Alexsia Drulias
     pronoun: she/her
-    position: Lead Tour Guide
-    year: 3rd year
+    year: 4th year
     transfer: No
     major: Communication & Sociology
     minor:
@@ -381,63 +213,11 @@ Guides:
     fun_fact: I have never met a person who is a less-picky eater than myself.
     image_path: ../images/guide_photos/adrulias.jpg
 -
-    first_name: Kristi
-    last_name: Le
-    name: Kristi Le
-    pronoun: she/her
-    year: 4th year
-    transfer: No
-    major: Computational and Systems Biology
-    minor: Environmental Engineering
-    hometown: San Diego, CA
-    involvements: Environmental Research, Fashion and Student Trends, Herbarium Volunteer, SEACLEAR, Business Analyst Internship
-    fun_fact: I once got lost in Legoland on a school trip
-    image_path: ../images/guide_photos/kle.jpg
--
-    first_name: Ben
-    last_name: Brill
-    name: Ben Brill
-    pronoun: he/him
-    position: Lead Tour Guide
-    year: 4th year
-    transfer: No
-    major: Statistics & Cognitive Science
-    hometown: Lomita, CA
-    involvements: Daily Bruin, Mathematics Research, Learning Assistant, Data Science Internship
-    fun_fact: I've been on the kiss camera two times, once at a Dodgers game and once at a Clippers game
-    image_path: ../images/guide_photos/bbrill_3.jpg
--
-    first_name: Becca
-    last_name: Epner
-    name: Becca Epner
-    pronoun: she/her
-    year: 4th year
-    transfer: No
-    major: Cognitive Science
-    hometown: San Diego, CA
-    involvements: Undergraduate Research Journal of Psychology, Teaching and Learning Lab, Intern at Sony Pictures
-    fun_fact: I’ve never been stung by a bee and I don’t plan on being stung any time soon!
-    image_path: ../images/guide_photos/bepner.jpg
--
-    first_name: Sam
-    last_name: Galvan
-    name: Sam Galvan
-    pronoun: she/her
-    position: Lead Tour Guide
-    year: 4th year
-    transfer: No
-    major: Cognitive Science
-    minor: Film
-    hometown: Menifee, CA
-    involvements: New Student Academic Programs, UniCamp, Culture and Contact Lab
-    fun_fact: I roller skate down by the pier in Santa Monica!
-    image_path: ../images/guide_photos/sgalvan.jpg
--
     first_name: Natasha
     last_name: Cheung
     name: Natasha Cheung
     pronoun: she/her
-    year: 3rd year
+    year: 4th year
     major: Business Economics
     minor: Entrepreneurship & Social Data Science
     hometown: Jakarta, Indonesia
@@ -448,7 +228,7 @@ Guides:
     first_name: Lauryn
     last_name: Wang
     name: Lauryn Wang
-    year: 3rd year
+    year: 4th year
     pronoun: she/her
     major: History
     minor: Community Engagement and Social Change & Asian American Studies
@@ -460,7 +240,7 @@ Guides:
     first_name: Kole
     last_name: Alfonso
     name: Kole Alfonso
-    year: 2nd year
+    year: 3rd year
     pronoun: he/him
     major: Political Science
     involvements: Mock Trial, Bruin Woods, Chess Club
@@ -468,23 +248,12 @@ Guides:
     fun_fact: Favorite show of all time is The West Wing, which inspired a passion for politics!
     image_path: ../images/guide_photos/kalfonso.jpg
 -
-    first_name: Rachel
-    last_name: Kho
-    name: Rachel Kho
-    year: 4th year
-    pronoun: she/her
-    major: Human Biology and Society
-    minor: Theater
-    hometown: Claremont, CA
-    involvements: Association of Indonesian Americans, Deviant Voices A Cappella, SCOPE-PHA, Lavender Health Alliance, Bioethics & In Vitro Gametogenesis lab, Korean Culture Night, Samahang Pilipino Culture Night, Indonesian Culture Night
-    fun_fact: Em dashes are my favorite punctuation mark!
-    image_path: ../images/guide_photos/rkho.jpg
--
     first_name: Hanna
     last_name: Skikne
     name: Hanna Skikne
-    year: 3rd year
+    year: 4th year
     pronoun: she/her
+    position: Lead Tour Guide
     major: Political Science
     minor: Education
     hometown: Santa Monica, CA
@@ -492,23 +261,12 @@ Guides:
     fun_fact: I was once chased by baboons in South Africa
     image_path: ../images/guide_photos/hskikne.jpg
 -
-    first_name: Ymani
-    last_name: Iyamah
-    name: Ymani Iyamah
-    year: 4th year
-    pronoun: she/her
-    major: Sociology and Communication Studies
-    minor: Theater
-    hometown: Santa Monica, CA
-    involvements: USAC Office of the President, Facilities Commission, Bruin Advertising and Marketing Team, Black Bruin Admit Weekend
-    fun_fact: I was in a Lifetime movie about Prince William and Kate Middleton
-    image_path: ../images/guide_photos/ymani.jpg
--
     first_name: Remy
     last_name: Noveshen
     name: Remy Noveshen
-    year: 3rd year
+    year: 4th year
     pronoun: she/her
+    position: Lead Tour Guide
     major: Human Biology and Society
     hometown: San Francisco, CA
     involvements: Pediatric Aids Coalition, American Medical Women's Association, UCLA EMT, Spoon Unviersity
@@ -519,7 +277,7 @@ Guides:
     last: Irons
     name: Caroline Irons
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Public Affairs & Spanish
     minor:
@@ -532,7 +290,7 @@ Guides:
     last: Maretz
     name: Tess Maretz
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Communication
     minor: Global Studies
@@ -545,7 +303,7 @@ Guides:
 #     last: Fleck
 #     name: Lexi Fleck
 #     pronoun: she/her
-#     year: 2nd year
+#     year: 3rd year
 #     transfer: No
 #     major: Individual Major: Urban Sustainable Design
 #     minor: Film
@@ -558,7 +316,7 @@ Guides:
     last: Dinan
     name: Amanda Dinan
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Chemical Engineering
     minor:
@@ -571,7 +329,7 @@ Guides:
     last: Zhou
     name: Emma Zhou
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Public Affairs
     minor:
@@ -584,7 +342,7 @@ Guides:
     last: Scruggs
     name: Jason Scruggs
     pronoun: he/him
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Statistics
     minor:
@@ -597,7 +355,8 @@ Guides:
     last: Camacho
     name:  Noah Camacho
     pronoun: he/him
-    year: 3rd year
+    position: Lead Tour Guide
+    year: 4th year
     transfer: Yes
     major: Psychology
     minor:
@@ -610,7 +369,7 @@ Guides:
     last: Bahadir
     name: Dilara Bahadir
     pronoun: she/her
-    year: 1st year
+    year: 2nd year
     transfer: No
     major: Neuroscience
     minor:
@@ -623,7 +382,7 @@ Guides:
     last: Nema
     name: Aneesha Nema
     pronoun: she/her
-    year: 3rd year
+    year: 4th year
     transfer: No
     major: Human Biology and Society
     minor: Social data science
@@ -636,7 +395,7 @@ Guides:
     last: Fierros
     name: Noemí Fierros
     pronoun: she/her
-    year: 1st year
+    year: 2nd year
     transfer: No
     major: American Literature and Culture
     minor:
@@ -649,7 +408,7 @@ Guides:
     last: Vibhakar
     name: Maya Vibhakar
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Political Science
     minor: History & English
@@ -662,7 +421,7 @@ Guides:
     last: Duong-Brett
     name: Sam Duong-Brett
     pronoun: she/her
-    year: 3rd year
+    year: 4th year
     transfer: No
     major: Human Biology and Society
     minor: Global Health
@@ -675,7 +434,7 @@ Guides:
     last: Kobashigawa
     name: Lauren Kobashigawa
     pronoun: she/her
-    year: 3rd year
+    year: 4th year
     transfer: No
     major: Communication
     minor: Entreprenership & Global Studies
@@ -688,7 +447,7 @@ Guides:
 #     last: VanValkenburg
 #     name: Audrey VanValkenburg
 #     pronoun: she/her
-#     year: 3rd year
+#     year: 4th year
 #     transfer: Yes
 #     major: Public Affair & Political Science
 #     minor:
@@ -701,7 +460,7 @@ Guides:
     last: Gomez
     name: Marcus Gomez
     pronoun: he/him
-    year: 3rd year
+    year: 4th year
     transfer: Yes
     major: Political Science
     minor: Education Studies
@@ -714,7 +473,7 @@ Guides:
     last: Benayon-Abraham
     name: Sierra Benayon-Abraham
     pronoun: she/her
-    year: 1st year
+    year: 2nd year
     transfer: No
     major: Human Biology and Society
     minor:
@@ -727,7 +486,8 @@ Guides:
     last: Santhosh
     name: Sanketh Santhosh
     pronoun: he/him
-    year: 3rd year
+    position: Lead Tour Guide
+    year: 4th year
     transfer: Yes
     major: Political Science
     minor: Education
@@ -740,7 +500,7 @@ Guides:
     last: Meyers
     name: Margaret Meyers
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Pre-Human Biology and Society
     minor: Spanish and Public Affairs
@@ -753,7 +513,7 @@ Guides:
     last: Ceceña
     name: Natalie Ceceña
     pronoun: she/her
-    year: 3rd year
+    year: 4th year
     transfer: Yes
     major: Communications
     minor:
@@ -766,7 +526,7 @@ Guides:
     last: Lim
     name: Jeffrey Drew Lim
     pronoun: he/him
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Communications (Planned)
     minor: Film
@@ -779,7 +539,7 @@ Guides:
     last: Aviv
     name: Nikki Aviv
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Communications
     minor: Film, TV and Digital Media & Community Engagement and Social Change
@@ -792,7 +552,7 @@ Guides:
     last: Gavrilenko
     name: Dennis Gavrilenko
     pronoun: he/him
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Business Economics
     minor: Geology & Data Science Engineering
@@ -805,7 +565,7 @@ Guides:
     last: Eidam
     name: Josh Eidam
     pronoun: he/him
-    year: 3rd year
+    year: 4th year
     transfer: No
     major: Marine Biology
     minor: Geographic Information Systems (GIS)
@@ -818,7 +578,7 @@ Guides:
     last: Adler
     name: Marley Adler
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Psychology
     minor:
@@ -831,7 +591,7 @@ Guides:
     last: Behnam
     name: Celine Behnam
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Psychology
     minor: Brain and Behavioral Health
@@ -844,7 +604,7 @@ Guides:
     last: Bora
     name: Rohan Bora
     pronoun: he/him
-    year: 3rd year
+    year: 4th year
     transfer: No
     major: Business Economics with a Value Investing Concentration
     minor: Social Data Science
@@ -857,7 +617,7 @@ Guides:
     last: Vu-Gia
     name: Nina Vu-Gia
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Molecular, Cell, and Developmental Biology
     minor: Computing Specialization
@@ -870,7 +630,7 @@ Guides:
     last: Bembry
     name: Alexis Bembry
     pronoun: she/her
-    year: 2nd year
+    year: 3rd year
     transfer: No
     major: Public Affairs & Economics
     hometown: Gilroy, CA
