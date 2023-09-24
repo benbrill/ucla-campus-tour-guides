@@ -23,7 +23,7 @@ const Testimonial = () => {
         </div>
             <div className={styles.testimonialVid}>
             <iframe
-            src="https://drive.google.com/file/d/1nGV_tl2TaYHT7FbQN-m8qT1Ygwow9Aae/preview"
+            src="https://drive.google.com/file/d/1LZtA4XlPWMdZWESxNLTIKfJ0th7HaWUc/preview"
             title="Campus Tour Video" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

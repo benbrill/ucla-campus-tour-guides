@@ -24,7 +24,7 @@ const styles = {
 const Countdown = () => {
     const calculateTimeLeft = () => {
         let year = new Date().getFullYear();
-        const difference = +new Date(`${year}-10-13`) - +new Date();
+        const difference = +new Date(`${year}-10-15`) - +new Date();
         let timeLeft = {};
     
         if (difference > 0) {
@@ -66,7 +66,7 @@ const Countdown = () => {
       {timerComponents.length ? timerComponents : <span>Time's up!</span>}
       </div>
       <div style={{display: "flex", justifyContent: "center", alignItems: "center", marginTop: "1rem"}}>
-        <Button href="https://connect.admission.ucla.edu/register/ApplyCampusTours2023" 
+        <Button href="https://connect.admission.ucla.edu/register/?id=fe730086-7ef3-4a17-8870-7f88a61d8406" 
         style = {{fontSize: "1.5rem", backgroundColor: "#2774AE",
         fontFamily: "Arial, Helvetica, sans-serif",
         fontWeight: 600,
