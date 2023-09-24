@@ -13,7 +13,7 @@ const Guides = ({data}) => {
 
 
   
-  let dataSorted = data.allDataYaml.nodes[1].Guides.sort((a, b) => {
+  let dataSorted = data.allDataYaml.nodes[0].Guides.sort((a, b) => {
     const nameA = a.name.toUpperCase(); // ignore upper and lowercase
     const nameB = b.name.toUpperCase(); // ignore upper and lowercase
     if (nameA < nameB) {

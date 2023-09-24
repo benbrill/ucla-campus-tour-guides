@@ -19,7 +19,7 @@ const FAQ = ({data}) => {
 
         <Container fluid = "sm">
           <Accordion>
-        {data.allDataYaml.nodes[0].FAQs.map(faq => 
+        {data.allDataYaml.nodes[1].FAQs.map(faq => 
             (<>
             
             <Accordion.Item eventKey = {faq.question}>
