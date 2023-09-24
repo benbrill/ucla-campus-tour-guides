@@ -24,7 +24,7 @@ const IndexPage = () => (
       display: "flex"}}>
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
       
-       The application to become a UCLA Tour Guide will open shortly. Please check back on this site for updates!
+       The application to become a UCLA Tour Guide is now live! Click the links to apply!
       </div>
     
       </div>
