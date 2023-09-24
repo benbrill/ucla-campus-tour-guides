@@ -18,7 +18,8 @@ const Footer = () => {
           }}
         >
           © {new Date().getFullYear()} &middot;
-          {` `} Made with ❤️ from Kerck 148 &middot; <Link to = "/rip" style={{color: "black", textDecoration: "none"}}>⚰️</Link>
+          {` `} Made with ❤️ from Kerck 148 &middot; 
+          {/* <Link to = "/rip" style={{color: "black", textDecoration: "none"}}>⚰️</Link> */}
         </footer>
     </div>
   )
