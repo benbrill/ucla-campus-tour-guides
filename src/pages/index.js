@@ -34,6 +34,7 @@ const IndexPage = () => (
 
       
     </div>
+    <Countdown />
     <div style = {{backgroundColor: "#ff5d00", width: "100%", minHeight: "30px", color: "#ffffff", textAlign: "center",
       display: "flex", marginTop: "50px", flexDirection: "column"}}>
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
