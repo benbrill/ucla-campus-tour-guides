@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 
 const Footer = () => {
   return (
@@ -17,7 +18,7 @@ const Footer = () => {
           }}
         >
           © {new Date().getFullYear()} &middot;
-          {` `} Made with ❤️ from Kerck 148
+          {` `} Made with ❤️ from Kerck 148 &middot; <Link to = "/rip" style={{color: "black", textDecoration: "none"}}>⚰️</Link>
         </footer>
     </div>
   )

@@ -11,6 +11,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Menu from "./navbar"
 import "./layout.css"
+import Footer from "../components/footer"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -34,15 +35,7 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer
-          style={{
-            marginTop: `var(--space-5)`,
-            fontSize: `var(--font-sm)`,
-          }}
-        >
-          © {new Date().getFullYear()} &middot;
-          {` `} Made with ❤️ from Kerck 148
-        </footer>
+        <Footer />
       </div>
     </>
   )
