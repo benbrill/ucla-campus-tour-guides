@@ -51,7 +51,7 @@ const Contact = () => {
         </div>
     </div>
     <Form onSubmit={ handleSubmit } id = "myForm" data-netlify = "true">
-      <input type="hidden" name="contact-form" value="myForm" />
+      <input type="hidden" name="form-name" value="myForm" />
       <Form.Group className="mb-3" controlId="name">
         <Form.Label>Name</Form.Label>
         <Form.Control onChange= {handleChange} type="text" placeholder="name" name = "name" />
