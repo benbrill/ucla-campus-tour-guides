@@ -207,9 +207,9 @@ Guides:
     year: 4th year
     transfer: No
     major: Communication & Sociology
-    minor:
+    minor: Classical Civilization
     hometown: Bakersfield, CA
-    involvements: Greek Life, Sales and Marketing Internship
+    involvements: Daily Bruin, Hellenic Student Association, Greek Life
     fun_fact: I have never met a person who is a less-picky eater than myself.
     image_path: ../images/guide_photos/adrulias.jpg
 -
@@ -230,10 +230,10 @@ Guides:
     name: Kole Alfonso
     year: 3rd year
     pronoun: he/him
-    major: Political Science
-    involvements: Mock Trial, Bruin Woods, Chess Club
+    major: Political Science & Communication
+    involvements: Mock Trial, Rose Debate Institute, Chess Club
     hometown: Rancho Cucamonga, CA
-    fun_fact: Favorite show of all time is The West Wing, which inspired a passion for politics!
+    fun_fact: Has the best Irish accent in the program…but has never been to Ireland.
     image_path: ../images/guide_photos/kalfonso.jpg
 -
     first_name: Hanna
@@ -286,19 +286,6 @@ Guides:
     involvements: Rapid Fire Improv, Campus Events Commission, Kerckhoff Coffee House
     fun_fact: I know a lot about the Heaven’s Gate Cult of 1997
     image_path: ../images/guide_photos/tmaretz.jpg
-# -
-#     first: Lexi
-#     last: Fleck
-#     name: Lexi Fleck
-#     pronoun: she/her
-#     year: 3rd year
-#     transfer: No
-#     major: Individual Major: Urban Sustainable Design
-#     minor: Film
-#     hometown: Bethesda, MD
-#     involvements: Coastalong, Daily Bruin, Student Alumni Association, Botanical Gardens Volunteer, Sustainable Production Internship
-#     fun_fact: My family’s nickname for me is pie face
-#     image_path: ../images/guide_photos/lfleck.jpg
 -
     first: Amanda
     last: Dinan
@@ -312,6 +299,19 @@ Guides:
     involvements: American Institute of Chemical Engineers, Engineers without Borders, Alpha Chi Sigma Professional Chemistry Fraternity, Women’s Club Lacrosse, Bagel Appreciation Club
     fun_fact: My family’s nickname for me is “Moo”.
     image_path: ../images/guide_photos/adinan.jpg
+-
+    first: Lexi
+    last: Fleck
+    name: Lexi Fleck
+    pronoun: she/her
+    year: 3rd year
+    transfer: No
+    major: Urban Sustainable Design (Individual Major)
+    minor: Film
+    hometown: Bethesda, MD
+    involvements: Coastalong, Daily Bruin, Student Alumni Association, Botanical Gardens Volunteer, Sustainable Production Internship
+    fun_fact: My family’s nickname for me is “pie face”.
+    image_path: ../images/guide_photos/lfleck.jpg
 -
     first: Emma
     last: Zhou
@@ -373,7 +373,7 @@ Guides:
     year: 4th year
     transfer: No
     major: Human Biology and Society
-    minor: Social data science
+    minor: Entrepreneurship
     hometown: San Jose, CA
     involvements: Consult Your Community, Jhoomti Shaam, Healthcare Consulting Internship
     fun_fact: I have a video on YouTube with over 5.6 million views! (It’s of me roasting my sister at her quinceañera)
@@ -490,7 +490,7 @@ Guides:
     pronoun: she/her
     year: 3rd year
     transfer: No
-    major: Pre-Human Biology and Society
+    major: Environmental Science
     minor: Spanish and Public Affairs
     hometown: Chicago, IL
     involvements: Student Alumni Association, Cub Tours, Lifeguard, IM sports
@@ -503,12 +503,12 @@ Guides:
     pronoun: she/her
     year: 4th year
     transfer: Yes
-    major: Communications
-    minor:
+    major: Communication
+    minor: Chicano & Central American Studies
     hometown: San Diego, CA
-    involvements: Panhellenic Community, Latin American Student Organization, UCLA REACH
-    fun_fact: I am a huge San Diego Padres fan!
-    image_path: ../images/guide_photos/ncencena.jpg
+    involvements: UCLA Social Media Team, UCLA REACH member, Latin American Student Organization
+    fun_fact: I met Future at Diddy Riese in Westwood!
+    image_path: ../images/guide_photos/ncecena.jpg
 -
     first: Jeffrey
     last: Lim
@@ -516,7 +516,7 @@ Guides:
     pronoun: he/him
     year: 3rd year
     transfer: No
-    major: Communications (Planned)
+    major: Communication
     minor: Film
     hometown: West Hollywood, CA
     involvements: YOUTHphonics A Cappella, Student Alumni Association
@@ -529,7 +529,7 @@ Guides:
     pronoun: she/her
     year: 3rd year
     transfer: No
-    major: Communications
+    major: Communication
     minor: Film, TV and Digital Media & Community Engagement and Social Change
     hometown: New York, NY
     involvements: Student Alumnae Association, Pediatric AIDS Coalition, End Overdose
@@ -625,3 +625,41 @@ Guides:
     involvements: USAC Community Service Commission, Net Impact Business Consulting, Phi Alpha Delta Pre-Law Fraternity, Gamma Phi Beta Sorority
     fun_fact: HoYean Jung from squid games personally thanked me for introducing her to Jeremih the music artist.
     image_path: ../images/guide_photos/abembry.jpg
+-
+    first: Ryan
+    last: Silverstein
+    name: Ryan Silverstein
+    pronoun: he/him
+    year: 4th year
+    transfer: No
+    major: Political Science
+    minor: Education Studies and Entrepreneurship
+    hometown: Wellesley, MA
+    involvements: UCLA Snowteam President
+    fun_fact: I can recite the entire script of Ace Ventura Pet Detective
+    image_path: ../images/guide_photos/rsilverstein.jpg
+-
+    first: Sam
+    last: Jackson
+    name: Sam Jackson
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Theater (Acting Emphasis)
+    minor: Entrepreneurship
+    hometown: Los Angeles, CA
+    involvements: Academic Advancement Program, Afrikan Student Union, Theater, Film & Television, Colorbox Theater
+    fun_fact: I can recite the entire script of Ace Ventura Pet Detective
+    image_path: ../images/guide_photos/sjackson.jpg
+#-
+#    first: Carlos
+#    last: Campa
+#    name: Carlos Campa
+#    pronoun: he/him
+#    year: 2nd year
+#    transfer: No
+#    major: Psychology
+#    hometown: Alhambra, CA
+#    involvements: Hermanos Unidos, Los Angeles Ski and Board Club
+#    fun_fact: I can wiggle my ears!
+#    image_path: ../images/guide_photos/ccampa.jpg

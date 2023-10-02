@@ -24,12 +24,12 @@ const Info = () => {
 
         <div style={styles.infoSessionContainer}>
             <div style = {styles.sessionTitle}>Info Session 1</div>
-            <div>Location TBD, October 5th 6:00 - 7:00 PM</div>
+            <div>Kaplan Hall Room 135, October 5th 6:00 - 7:00 PM</div>
             <div> <em> Recording coming soon!</em></div>
         </div>
         <div>
             <div style = {styles.sessionTitle}>Info Session 2</div>
-            <div>Location TBD, October 9th 6:00 - 7:00 PM</div>
+            <div>Boelter Hall Room 2444, October 9th 6:00 - 7:00 PM</div>
             <div> <em> Recording coming soon!</em></div>
         </div>
 

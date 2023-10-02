@@ -11,14 +11,13 @@ const Testimonial = () => {
             </div>
             
             <div className = {styles.testimonialTitle}>
-                Take <br />
-                a Tour <br /> 
-                <span style = {{fontWeight: "bold"}}>Today</span> 
+                <br />Information Sessions <br />
                 </div>
             <div className = {styles.testimonialBody}>
-            Each of our tour guides use their own unique, personal experiences to give their guests real insights into the life 
-            of an active UCLA student. Each of our guides has a story they would like to share about their UCLA journey,
-            and we encourage you to follow along. 
+            We have two sessions: <br />
+1) Thursday, October 5, 6 - 7 PM in Kaplan Hall Room 135 <br />
+ 2) Monday, October 9, 6 - 7 PM in Boelter Hall Room 2444 <br />
+During the information sessions you’ll get the chance to talk to current guides about their experience and get some insight into the application process!
             </div>
         </div>
             <div className={styles.testimonialVid}>
