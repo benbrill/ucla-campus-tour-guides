@@ -496,19 +496,19 @@ Guides:
     involvements: Student Alumni Association, Cub Tours, Lifeguard, IM sports
     fun_fact: My great grandpa had a ticket for the Titanic but missed the boat!
     image_path: ../images/guide_photos/mmeyers.jpg
--
-    first: Natalie
-    last: Ceceña
-    name: Natalie Ceceña
-    pronoun: she/her
-    year: 4th year
-    transfer: Yes
-    major: Communication
-    minor: Chicano & Central American Studies
-    hometown: San Diego, CA
-    involvements: UCLA Social Media Team, UCLA REACH member, Latin American Student Organization
-    fun_fact: I met Future at Diddy Riese in Westwood!
-    image_path: ../images/guide_photos/ncecena.jpg
+#-
+#    first: Natalie
+#    last: Ceceña
+#    name: Natalie Ceceña
+#    pronoun: she/her
+#    year: 4th year
+#    transfer: Yes
+#    major: Communication
+#    minor: Chicano & Central American Studies
+#    hometown: San Diego, CA
+#    involvements: UCLA Social Media Team, UCLA REACH member, Latin American Student Organization
+#    fun_fact: I met Future at Diddy Riese in Westwood!
+#    image_path: ../images/guide_photos/ncecena.jpg
 -
     first: Jeffrey
     last: Lim
@@ -625,19 +625,19 @@ Guides:
     involvements: USAC Community Service Commission, Net Impact Business Consulting, Phi Alpha Delta Pre-Law Fraternity, Gamma Phi Beta Sorority
     fun_fact: HoYean Jung from squid games personally thanked me for introducing her to Jeremih the music artist.
     image_path: ../images/guide_photos/abembry.jpg
--
-    first: Ryan
-    last: Silverstein
-    name: Ryan Silverstein
-    pronoun: he/him
-    year: 4th year
-    transfer: No
-    major: Political Science
-    minor: Education Studies and Entrepreneurship
-    hometown: Wellesley, MA
-    involvements: UCLA Snowteam President
-    fun_fact: I can recite the entire script of Ace Ventura Pet Detective
-    image_path: ../images/guide_photos/rsilverstein.jpg
+#-
+#    first: Ryan
+#    last: Silverstein
+#    name: Ryan Silverstein
+#    pronoun: he/him
+#    year: 4th year
+#    transfer: No
+#    major: Political Science
+#    minor: Education Studies and Entrepreneurship
+#    hometown: Wellesley, MA
+#    involvements: UCLA Snowteam President
+#    fun_fact: I can recite the entire script of Ace Ventura Pet Detective
+#    image_path: ../images/guide_photos/rsilverstein.jpg
 -
     first: Sam
     last: Jackson
