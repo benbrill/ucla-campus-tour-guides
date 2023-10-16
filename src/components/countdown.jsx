@@ -61,9 +61,9 @@ const Countdown = () => {
       });
   return (
     <div>
-      <div style={{fontFamily: "Arial, Helvetica, sans-serif", fontWeight: "Bold", fontSize: "3rem", textAlign: "center"}}>Application due in</div>
+      <div style={{fontFamily: "Arial, Helvetica, sans-serif", fontWeight: "Bold", fontSize: "3rem", textAlign: "center"}}>Application due</div>
       <div style= {styles.countdownBox}>
-      {timerComponents.length ? timerComponents : <span>Time's up!</span>}
+      {timerComponents.length ? timerComponents : <span>October 15 at midnight!</span>}
       </div>
       <div style={{display: "flex", justifyContent: "center", alignItems: "center", marginTop: "1rem"}}>
         <Button href="https://connect.admission.ucla.edu/register/?id=fe730086-7ef3-4a17-8870-7f88a61d8406" 

@@ -663,3 +663,17 @@ Guides:
 #    involvements: Hermanos Unidos, Los Angeles Ski and Board Club
 #    fun_fact: I can wiggle my ears!
 #    image_path: ../images/guide_photos/ccampa.jpg
+-
+    first: Sofia
+    last: Sheppard
+    name: Sofia Sheppard
+    pronoun: she/her
+    year: 3rd year
+    transfer: No
+    major: Cognitive Science
+    minor: Specialization in Computing, Accounting, Statistics and Data Science
+    hometown: Ashland, MA
+    involvements: Special Olympics at UCLA, Bruin Ambassador Program, UConsulting
+    fun_fact: I snort when I laugh (like a pig!).
+    image_path: ../images/guide_photos/ssheppard.jpg
+
