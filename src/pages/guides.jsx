@@ -34,7 +34,14 @@ const Guides = ({data}) => {
 
 
     <div>
-      <StaticImage src = "../images/meet_the_guides.jpg" layout='full_width' aspectRatio={28/9} transformOptions = {{cropFocus: "center"}} quality = {100} placeholder = "blurred"/>
+  <StaticImage
+    src="../images/t0urzGr0up-3.jpg"
+    layout="fullWidth"
+    aspectRatio={21 / 9}  // Adjust the aspect ratio accordingly
+    transformOptions={{ cropFocus: "center" }}
+    quality={100}
+    placeholder="blurred"
+  />
     <div
         style={{
           margin: `0 auto`,

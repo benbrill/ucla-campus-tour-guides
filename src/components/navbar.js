@@ -25,7 +25,7 @@ const Menu = () => {
       <Nav.Link href="/guides" className={styles.navlink}>Meet the Guides</Nav.Link>
       <Nav.Link href="/faq" className={styles.navlink}>FAQ</Nav.Link>
       <Nav.Link href="/contact" className={styles.navlink}>Contact</Nav.Link>
-      <Nav.Link href="https://connect.admission.ucla.edu/register/?id=fe730086-7ef3-4a17-8870-7f88a61d8406"  id={styles.apply} target="_blank">Apply!</Nav.Link>
+      <Nav.Link href="https://connect.admission.ucla.edu/portal/tours" id={styles.apply} target="_blank">Book a Tour</Nav.Link>
     </Nav>
     </Navbar.Collapse>
     </Container>

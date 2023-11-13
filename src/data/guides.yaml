@@ -106,7 +106,7 @@ Guides:
     hometown: London, United Kingdom
     involvements: Student Alumni Association, Bruin Consulting, Hispanic Capital Group, Investment Banking Internship
     fun_fact: I've met Jimmy Fallon and Pitbull at Universal Studios
-    image_path: ../images/guide_photos/ldb2.jpg
+    image_path: ../images/guide_photos/ldb.jpg
 -
     first_name: William
     last_name: McReynolds
@@ -158,7 +158,7 @@ Guides:
     hometown: Newtown, CT
     involvements: Camp Kesem, CampMed, Undergraduate Blood Initiative, Business Analyst Research Intern, Greek Life
     fun_fact: I had the cheese touch for over a month in elementary school. It was devastating.
-    image_path: ../images/guide_photos/sfindley3.jpg
+    image_path: ../images/guide_photos/sfindley.jpg
 -
     first_name: Sierra
     last_name: Oudin
@@ -186,19 +186,19 @@ Guides:
     involvements: The Bruin Experiment, Hillel, Chi Omega
     fun_fact: I can name every single world capital
     image_path: ../images/guide_photos/kjacobs.jpg
-# # # -
-# # #     first_name: Randal
-# # #     last_name: Macias
-# # #     name: Randal Macias
-# # #     pronoun: he/him
-# # #     year: 4th year
-# # #     transfer: No
-# # #     major: Mathematics/Economics
-# # #     minor:
-# # #     hometown: Huntington Beach, CA
-# # #     involvements: Sigma Chi, Golf Wang Customer Service
-# # #     fun_fact: I am a fiend for online shopping and love to browse Grailed in most of my free time.
-# # #     image_path: ../images/guide_photos/rmacias.jpg
+-
+   first_name: Randal
+   last_name: Macias
+   name: Randal Macias
+   pronoun: he/him
+   year: 4th year
+   transfer: No
+   major: Mathematics/Economics
+   minor:
+   hometown: Huntington Beach, CA
+   involvements: Sigma Chi, Golf Wang Customer Service
+   fun_fact: I am a fiend for online shopping and love to browse Grailed in most of my free time.
+   image_path: ../images/guide_photos/rmacias.jpg
 -
     first_name: Alexsia
     last_name: Drulias
@@ -332,7 +332,7 @@ Guides:
     pronoun: he/him
     year: 3rd year
     transfer: No
-    major: Statistics
+    major: Statistics and Data Science
     minor:
     hometown: Paso Robles, CA
     involvements: Juggling Club, Club Track and Field, Backpacking Club, Ski and Board Club,
@@ -430,19 +430,19 @@ Guides:
     involvements: Student Alumni Association, Special Olympics, Bruin Media Group, Farmers Market Club, Spoon University, CorePower Yoga
     fun_fact: I share a birthday with my dad!
     image_path: ../images/guide_photos/lkobashigawa.jpg
-# -
-#     first: Audrey
-#     last: VanValkenburg
-#     name: Audrey VanValkenburg
-#     pronoun: she/her
-#     year: 4th year
-#     transfer: Yes
-#     major: Public Affair & Political Science
-#     minor:
-#     hometown: San Jose, CA
-#     involvements: Bruin Film Society & Luskin Student Association
-#     fun_fact: I lived abroad in Barcelona for 7 months last year!
-#     image_path: ../images/guide_photos/avanvalkenburg.jpg
+-
+    first: Audrey
+    last: VanValkenburg
+    name: Audrey VanValkenburg
+    pronoun: she/her
+    year: 4th year
+    transfer: Yes
+    major: Public Affair & Political Science
+    minor:
+    hometown: San Jose, CA
+    involvements: Bruin Film Society & Luskin Student Association
+    fun_fact: I lived abroad in Barcelona for 7 months last year!
+    image_path: ../images/guide_photos/avanvalkenburg.jpg
 -
     first: Marcus
     last: Gomez
@@ -496,19 +496,19 @@ Guides:
     involvements: Student Alumni Association, Cub Tours, Lifeguard, IM sports
     fun_fact: My great grandpa had a ticket for the Titanic but missed the boat!
     image_path: ../images/guide_photos/mmeyers.jpg
-#-
-#    first: Natalie
-#    last: Ceceña
-#    name: Natalie Ceceña
-#    pronoun: she/her
-#    year: 4th year
-#    transfer: Yes
-#    major: Communication
-#    minor: Chicano & Central American Studies
-#    hometown: San Diego, CA
-#    involvements: UCLA Social Media Team, UCLA REACH member, Latin American Student Organization
-#    fun_fact: I met Future at Diddy Riese in Westwood!
-#    image_path: ../images/guide_photos/ncecena.jpg
+-
+    first: Natalie
+    last: Ceceña
+    name: Natalie Ceceña
+    pronoun: she/her
+    year: 4th year
+    transfer: Yes
+    major: Communication
+    minor: Chicano & Central American Studies
+    hometown: San Diego, CA
+    involvements: UCLA Social Media Team, UCLA REACH member, Latin American Student Organization
+    fun_fact: I met Future at Diddy Riese in Westwood!
+    image_path: ../images/guide_photos/ncecena.jpg
 -
     first: Jeffrey
     last: Lim
@@ -625,19 +625,19 @@ Guides:
     involvements: USAC Community Service Commission, Net Impact Business Consulting, Phi Alpha Delta Pre-Law Fraternity, Gamma Phi Beta Sorority
     fun_fact: HoYean Jung from squid games personally thanked me for introducing her to Jeremih the music artist.
     image_path: ../images/guide_photos/abembry.jpg
-#-
-#    first: Ryan
-#    last: Silverstein
-#    name: Ryan Silverstein
-#    pronoun: he/him
-#    year: 4th year
-#    transfer: No
-#    major: Political Science
-#    minor: Education Studies and Entrepreneurship
-#    hometown: Wellesley, MA
-#    involvements: UCLA Snowteam President
-#    fun_fact: I can recite the entire script of Ace Ventura Pet Detective
-#    image_path: ../images/guide_photos/rsilverstein.jpg
+-
+    first: Ryan
+    last: Silverstein
+    name: Ryan Silverstein
+    pronoun: he/him
+    year: 4th year
+    transfer: No
+    major: Political Science
+    minor: Education Studies and Entrepreneurship
+    hometown: Wellesley, MA
+    involvements: UCLA Snowteam President
+    fun_fact: I can recite the entire script of Ace Ventura Pet Detective
+    image_path: ../images/guide_photos/rsilverstein.jpg
 -
     first: Sam
     last: Jackson
@@ -676,4 +676,29 @@ Guides:
     involvements: Special Olympics at UCLA, Bruin Ambassador Program, UConsulting
     fun_fact: I snort when I laugh (like a pig!).
     image_path: ../images/guide_photos/ssheppard.jpg
-
+-
+    first: Connor
+    last: Keithley
+    name: Connor Keithley
+    pronoun: he/him
+    year: 2nd year
+    transfer: No
+    major: Business Economics
+    minor:
+    hometown: San Clemente, CA
+    involvements: The Castel Collective, ReThink Ice Cream, Greek Life, IM Cornhole/Futsal, Bruin Film Society
+    fun_fact: I'm colorblind
+    image_path: ../images/guide_photos/ckeithley.jpg
+-
+    first: Ava
+    last: Montali
+    name: Ava Montali
+    pronoun: he/him
+    year: 4nd year
+    transfer: No
+    major: Political Science
+    minor: Professional Writing & Public Affairs
+    hometown: San Diego, CA
+    involvements: Work as a TOP Questioner (International TA certification), Cub Tours, Mentorship at UCLA, Political Science Departmental Honors research project
+    fun_fact: I love concerts and I've seen Taylor Swift five times and The 1975 eight times!
+    image_path: ../images/guide_photos/amontali.jpg
