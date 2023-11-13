@@ -24,7 +24,7 @@ const IndexPage = () => (
       display: "flex"}}>
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
       
-       The application to become a UCLA Tour Guide is now live! Click the link below to apply!
+       We are no longer accepting applications for the Fall 2023 hiring class.
       </div>
     
       </div>
