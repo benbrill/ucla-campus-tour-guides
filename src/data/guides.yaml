@@ -36,7 +36,7 @@ Guides:
     major: Business Economics
     minor: Spanish & Entrepreneurship
     hometown: Marblehead, MA
-    involvements: UConsulting, Tamid, Alpha Phi, Chaarg
+    involvements: UConsulting, Tamid, Alpha Phi, CHAARG
     fun_fact: I speak fluent Russian
     image_path: ../images/guide_photos/aavin.jpg
 -
@@ -64,7 +64,7 @@ Guides:
     major: Statistics & Cognitive Science
     minor: History of Science, Technology, and Medicine & Digital Humanities
     hometown: Walnut Creek, CA
-    involvements: Club Swimming, Admissions Assistant, APO Services Fraternity, Interdiciplinary Research
+    involvements: Club Swimming, UCLA Undergraduate Admissions Assistant, APO Service Fraternity, Interdiciplinary Research, Rally Committee, Reformed University Fellowship
     fun_fact: My twin brother goes to USC
     image_path: ../images/guide_photos/nwu.jpg
 -
@@ -247,7 +247,7 @@ Guides:
     hometown: Santa Monica, CA
     involvements: Student Alumni Association, UCLA Delta Gamma, Undergraduate Judicial Board
     fun_fact: I was once chased by baboons in South Africa
-    image_path: ../images/guide_photos/hskikne.jpg
+    image_path: ../images/guide_photos/hskikne2.jpeg
 -
     first_name: Remy
     last_name: Noveshen
@@ -362,7 +362,7 @@ Guides:
     major: Neuroscience
     minor:
     hometown: Boston, MA
-    involvements: 'Undergraduate Researcher at UCLA Laboratory for Epilepsy Research, SCOPE PHA, Life Sciences Student Association Fellow, Dean''s Advisory Board for Life Sciences, '
+    involvements: Undergraduate Researcher at UCLA Laboratory for Epilepsy Research, SCOPE PHA, Life Sciences Student Association Fellow, Dean''s Advisory Board for Life Sciences
     fun_fact: 'I''ve made my own pickles!'
     image_path: ../images/guide_photos/dbahadir.jpg
 -
@@ -571,7 +571,7 @@ Guides:
     major: Psychology
     minor:
     hometown: Davis, CA
-    involvements: SAA-spring sing company director, Hillel director of engagement, student affairs media team, neuroplasticity research at the Center of mind and brain
+    involvements: SAA-Spring Sing Company Director, Hillel Director of Engagement, Student Affairs media team, Neuroplasticity Research at the Center of Mind and Brain
     fun_fact: Can recite over 104 digits of pi by heart
     image_path: ../images/guide_photos/madler.jpg
 -
@@ -649,7 +649,7 @@ Guides:
     minor: Entrepreneurship
     hometown: Los Angeles, CA
     involvements: Academic Advancement Program, Afrikan Student Union, Theater, Film & Television, Colorbox Theater
-    fun_fact: I can recite the entire script of Ace Ventura Pet Detective
+    fun_fact: I've traveled to 15 different countries!
     image_path: ../images/guide_photos/sjackson.jpg
 #-
 #    first: Carlos
@@ -694,7 +694,7 @@ Guides:
     last: Montali
     name: Ava Montali
     pronoun: he/him
-    year: 4nd year
+    year: 4th year
     transfer: No
     major: Political Science
     minor: Professional Writing & Public Affairs
@@ -702,3 +702,17 @@ Guides:
     involvements: Work as a TOP Questioner (International TA certification), Cub Tours, Mentorship at UCLA, Political Science Departmental Honors research project
     fun_fact: I love concerts and I've seen Taylor Swift five times and The 1975 eight times!
     image_path: ../images/guide_photos/amontali.jpg
+-
+    first: Sam
+    last: Mushinski
+    name: Sam Mushinski
+    pronoun: he/him
+    year: 3rd year
+    transfer: No
+    major: Physiological Science
+    minor: Disability Studies
+    hometown: Manchester, CT
+    involvements: Clinical Psychiatry Research Assistant at UCLA Health, Delta Epsilon Mu (Pre-Health Fraternity), Student Rep for UCLA Ashe Health and Wellness Center
+    fun_fact: I was a contestant on UCLA Survivor and I am applying to the real show!
+    image_path: ../images/guide_photos/smushinski.jpg
+
