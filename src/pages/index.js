@@ -24,7 +24,7 @@ const IndexPage = () => (
       display: "flex"}}>
       <div style = {{margin: "auto auto", padding: "10px 0"}}> 
       
-       Check back in late September/Early October for information regarding the Fall 2024 hiring class.
+       We are no longer accepting applications for the Fall 2023 hiring class.
       </div>
     
       </div>

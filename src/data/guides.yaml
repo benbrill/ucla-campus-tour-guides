@@ -4,6 +4,7 @@ Guides:
     last_name: Sumilang
     name: Layla Sumilang
     pronoun: she/her
+    position: Special Programs
     year: 4th year
     transfer: No
     major: Global Studies
@@ -30,7 +31,7 @@ Guides:
     last_name: Avin
     name: Abby Avin
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Business Economics
     minor: Spanish & Entrepreneurship
@@ -43,6 +44,7 @@ Guides:
     last_name: Chaudhari
     name: Raashi Chaudhari
     pronoun: she/her
+    position: Logistics
     year: 4th year
     transfer: No
     major: Cognitive Science
@@ -56,6 +58,7 @@ Guides:
     last_name: Wu
     name: Nathan Wu
     pronoun: he/him
+    position: Lead Tour Guide
     year: 4th year
     transfer: No
     major: Statistics & Cognitive Science
@@ -69,7 +72,7 @@ Guides:
     last_name: Joshi
     name: Krutika Joshi
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Human Biology & Society
     minor:
@@ -82,8 +85,7 @@ Guides:
     last_name: St.Germaine
     name: Ashton St.Germaine
     pronoun: she/her
-    position: Scheduling Coordinator
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Political Science
     minor: Spanish
@@ -96,6 +98,7 @@ Guides:
     last_name: de Beer
     name: Laura de Beer
     pronoun: she/her
+    position: Scheduling
     year: 4th year
     transfer: No
     major: Business Economics with a Value Investing Concentration
@@ -122,7 +125,7 @@ Guides:
     last_name: Chin
     name: Logan Chin
     pronoun: he/him
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Human Biology and Society
     minor: Mathematics & Theater
@@ -148,8 +151,7 @@ Guides:
     last_name: Findley
     name: Sawyer Findley
     pronoun: he/him
-    position: Lead Tour Guide
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Computational and Systems Biology & Environmental Science
     minor: Statistics
@@ -175,6 +177,7 @@ Guides:
     last_name: Jacobs
     name: Katharine Jacobs
     pronoun: she/her
+    position: Lead Tour Guide
     year: 4th year
     transfer: No
     major: Neuroscience
@@ -225,7 +228,7 @@ Guides:
     first_name: Kole
     last_name: Alfonso
     name: Kole Alfonso
-    year: 4th year
+    year: 3rd year
     pronoun: he/him
     major: Political Science & Communication
     involvements: Mock Trial, Rose Debate Institute, Chess Club
@@ -238,6 +241,7 @@ Guides:
     name: Hanna Skikne
     year: 4th year
     pronoun: she/her
+    position: Lead Tour Guide
     major: Political Science
     minor: Education
     hometown: Santa Monica, CA
@@ -250,6 +254,7 @@ Guides:
     name: Remy Noveshen
     year: 4th year
     pronoun: she/her
+    position: Lead Tour Guide
     major: Human Biology and Society
     hometown: San Francisco, CA
     involvements: Pediatric Aids Coalition, American Medical Women's Association, UCLA EMT, Spoon Unviersity
@@ -260,7 +265,7 @@ Guides:
     last: Irons
     name: Caroline Irons
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Public Affairs & Spanish
     minor:
@@ -273,7 +278,7 @@ Guides:
     last: Maretz
     name: Tess Maretz
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Communication
     minor: Global Studies
@@ -286,7 +291,7 @@ Guides:
     last: Dinan
     name: Amanda Dinan
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Chemical Engineering
     minor:
@@ -299,7 +304,7 @@ Guides:
     last: Fleck
     name: Lexi Fleck
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Urban Sustainable Design (Individual Major)
     minor: Film
@@ -312,7 +317,7 @@ Guides:
     last: Zhou
     name: Emma Zhou
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Public Affairs
     minor:
@@ -325,8 +330,7 @@ Guides:
     last: Scruggs
     name: Jason Scruggs
     pronoun: he/him
-    position: Lead Tour Guide
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Statistics and Data Science
     minor:
@@ -339,6 +343,7 @@ Guides:
     last: Camacho
     name:  Noah Camacho
     pronoun: he/him
+    position: Lead Tour Guide
     year: 4th year
     transfer: Yes
     major: Psychology
@@ -352,7 +357,7 @@ Guides:
     last: Bahadir
     name: Dilara Bahadir
     pronoun: she/her
-    year: 3rd year
+    year: 2nd year
     transfer: No
     major: Neuroscience
     minor:
@@ -378,7 +383,7 @@ Guides:
     last: Fierros
     name: Noemí Fierros
     pronoun: she/her
-    year: 3rd year
+    year: 2nd year
     transfer: No
     major: American Literature and Culture
     minor:
@@ -391,8 +396,7 @@ Guides:
     last: Vibhakar
     name: Maya Vibhakar
     pronoun: she/her
-    year: 4th year
-    position: Special Programs Coordinator
+    year: 3rd year
     transfer: No
     major: Political Science
     minor: History & English
@@ -457,7 +461,7 @@ Guides:
     last: Benayon-Abraham
     name: Sierra Benayon-Abraham
     pronoun: she/her
-    year: 3rd year
+    year: 2nd year
     transfer: No
     major: Human Biology and Society
     minor:
@@ -470,6 +474,7 @@ Guides:
     last: Santhosh
     name: Sanketh Santhosh
     pronoun: he/him
+    position: Lead Tour Guide
     year: 4th year
     transfer: Yes
     major: Political Science
@@ -483,8 +488,7 @@ Guides:
     last: Meyers
     name: Margaret Meyers
     pronoun: she/her
-    year: 4th year
-    position: Training and Logistics Coordinator
+    year: 3rd year
     transfer: No
     major: Environmental Science
     minor: Spanish and Public Affairs
@@ -510,7 +514,7 @@ Guides:
     last: Lim
     name: Jeffrey Drew Lim
     pronoun: he/him
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Communication
     minor: Film
@@ -523,7 +527,7 @@ Guides:
     last: Aviv
     name: Nikki Aviv
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Communication
     minor: Film, TV and Digital Media & Community Engagement and Social Change
@@ -536,7 +540,7 @@ Guides:
     last: Gavrilenko
     name: Dennis Gavrilenko
     pronoun: he/him
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Business Economics
     minor: Geology & Data Science Engineering
@@ -562,7 +566,7 @@ Guides:
     last: Adler
     name: Marley Adler
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Psychology
     minor:
@@ -575,7 +579,7 @@ Guides:
     last: Behnam
     name: Celine Behnam
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Psychology
     minor: Brain and Behavioral Health
@@ -601,7 +605,7 @@ Guides:
     last: Vu-Gia
     name: Nina Vu-Gia
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Molecular, Cell, and Developmental Biology
     minor: Computing Specialization
@@ -614,7 +618,7 @@ Guides:
     last: Bembry
     name: Alexis Bembry
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Public Affairs & Economics
     hometown: Gilroy, CA
@@ -647,24 +651,24 @@ Guides:
     involvements: Academic Advancement Program, Afrikan Student Union, Theater, Film & Television, Colorbox Theater
     fun_fact: I've traveled to 15 different countries!
     image_path: ../images/guide_photos/sjackson.jpg
--
-    first: Carlos
-    last: Campa
-    name: Carlos Campa
-    pronoun: he/him
-    year: 2nd year
-    transfer: No
-    major: Psychology
-    hometown: Alhambra, CA
-    involvements: Hermanos Unidos, Los Angeles Ski and Board Club
-    fun_fact: I can wiggle my ears!
-    image_path: ../images/guide_photos/ccampa.jpg
+#-
+#    first: Carlos
+#    last: Campa
+#    name: Carlos Campa
+#    pronoun: he/him
+#    year: 2nd year
+#    transfer: No
+#    major: Psychology
+#    hometown: Alhambra, CA
+#    involvements: Hermanos Unidos, Los Angeles Ski and Board Club
+#    fun_fact: I can wiggle my ears!
+#    image_path: ../images/guide_photos/ccampa.jpg
 -
     first: Sofia
     last: Sheppard
     name: Sofia Sheppard
     pronoun: she/her
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Cognitive Science
     minor: Specialization in Computing, Accounting, Statistics and Data Science
@@ -677,7 +681,7 @@ Guides:
     last: Keithley
     name: Connor Keithley
     pronoun: he/him
-    year: 3rd year
+    year: 2nd year
     transfer: No
     major: Business Economics
     minor:
@@ -703,8 +707,7 @@ Guides:
     last: Mushinski
     name: Sam Mushinski
     pronoun: he/him
-    position: Lead Tour Guide
-    year: 4th year
+    year: 3rd year
     transfer: No
     major: Physiological Science
     minor: Disability Studies
