@@ -37,7 +37,7 @@ const Guides = ({data}) => {
   <StaticImage
     src="../images/t0urzGr0up-3.jpg"
     layout="fullWidth"
-    aspectRatio={21 / 9}  // Adjust the aspect ratio accordingly
+    aspectRatio={21 / 8}  // Adjust the aspect ratio accordingly
     transformOptions={{ cropFocus: "center" }}
     quality={100}
     placeholder="blurred"
