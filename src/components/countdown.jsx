@@ -24,7 +24,7 @@ const styles = {
 const Countdown = () => {
     const calculateTimeLeft = () => {
         let year = new Date().getFullYear();
-        const difference = +new Date(`${year}-10-15`) - +new Date();
+        const difference = +new Date(`${year}-10-17T00:00:00`) - +new Date();
         let timeLeft = {};
     
         if (difference > 0) {
@@ -61,7 +61,7 @@ const Countdown = () => {
       });
   return (
     <div>
-      <div style={{fontFamily: "Arial, Helvetica, sans-serif", fontWeight: "Bold", fontSize: "3rem", textAlign: "center"}}>Apps are now closed</div>
+      <div style={{fontFamily: "Arial, Helvetica, sans-serif", fontWeight: "Bold", fontSize: "3rem", textAlign: "center"}}>Apps Due October 16th</div>
       <div style= {styles.countdownBox}>
       {timerComponents.length ? timerComponents : <span>Check back later for summer guide applications!</span>}
       </div>
