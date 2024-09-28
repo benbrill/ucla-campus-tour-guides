@@ -21,16 +21,21 @@ const Testimonial = () => {
             and we encourage you to follow along. 
             </div>
         </div>
-            <div className={styles.testimonialVid}>
-            <iframe
-            src="https://drive.google.com/file/d/1LZtA4XlPWMdZWESxNLTIKfJ0th7HaWUc/preview"
-            title="Campus Tour Video" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen
-            className={styles.vid}>
-            </iframe>
-            </div>
+
+        
+            {/* Replace the video with an Instagram link */}
+        <div className={styles.testimonialVid}>
+          <div className={styles.testimonialInstagramText}>
+            Click below to check out our Instagram!
+          </div>
+          <a href="https://www.instagram.com/uclacampustours/" target="_blank" rel="noopener noreferrer">
+            <StaticImage 
+              src="../images/instagram_logo_2.png" // Replace with your Instagram icon or a suitable image
+              alt="Follow us on Instagram"
+              className={styles.instagramImage}
+            />
+          </a>
+        </div>
     </div>
   )
 }

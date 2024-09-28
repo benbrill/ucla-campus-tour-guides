@@ -83,7 +83,7 @@ const Guides = ({data}) => {
             {dataSorted.map(guide => (
             <>
             <Col style = {{padding: "0.5rem 0.2rem"}}>
-             <div style = {{position: "absolute", zIndex: 1, backgroundColor: "#2774AE", color: "#ffffff", maxWidth: "120px", margin: "7px 7px", textAlign: "left", fontSize: "0.8rem", padding: "0px 7px"}}>{guide.position}</div> 
+             <div style = {{position: "absolute", zIndex: 1, backgroundColor: "#2774AE", color: "#ffffff", maxWidth: "150px", margin: "7px 7px", textAlign: "left", fontSize: "0.7rem", padding: "0px 7px"}}>{guide.position}</div> 
             <GuideCard props = {guide}/>
             </Col>
             </>

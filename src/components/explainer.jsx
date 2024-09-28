@@ -25,7 +25,7 @@ const Explainer = () => {
     </div>
     <div className = {styles.pictureContainer}>
         <div id = {styles.picture2}>
-                <StaticImage src = "../images/home_page/home_page_4.jpg" aspectRatio={16/8} transformOptions = {{cropFocus: "center"}}/>
+                <StaticImage src = "../images/home_page/home_page_5.jpg" aspectRatio={16/8} transformOptions = {{cropFocus: "center"}}/>
         </div>
         <div className = {styles.textContainer} id = {styles.container2}>
             <div className = {styles.explainerText} >

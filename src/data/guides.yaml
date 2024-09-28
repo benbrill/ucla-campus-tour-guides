@@ -70,7 +70,6 @@ Guides:
     last_name: Joshi
     name: Krutika Joshi
     pronoun: she/her
-    position: Internal Relations
     year: 4th year
     transfer: No
     major: Human Biology & Society and Political Science
@@ -84,13 +83,13 @@ Guides:
     last_name: St.Germaine
     name: Ashton St.Germaine
     pronoun: she/her
-    position: Scheduling
+    position: Scheduling Coordinator
     year: 4th year
     transfer: No
     major: Political Science
-    minor: Spanish
+    minor: Spanish and Education
     hometown: Mission Viejo, CA
-    involvements: Greek Life, Bruin Association of Students in Education
+    involvements: Student Alumni Association, Panhellenic Council
     fun_fact: At one point had 16 bunnies
     image_path: ../images/guide_photos/astgermaine.jpg
 -
@@ -294,7 +293,7 @@ Guides:
     last_name: Vibhakar
     name: Maya Vibhakar
     pronoun: she/her
-    position: Special Programs
+    position: Special Programs Coordinator
     year: 4th year
     transfer: No
     major: Political Science
@@ -321,8 +320,8 @@ Guides:
     last_name: Meyers
     name: Margaret Meyers
     pronoun: she/her
-    position: Logistics
-    year: 3rd year
+    position: Logistics Coordinator
+    year: 4th year
     transfer: No
     major: Environmental Science
     minor: Spanish and Public Affairs
