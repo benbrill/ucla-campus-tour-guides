@@ -270,9 +270,9 @@ Guides:
     year: 4th year
     transfer: No
     major: Statistics and Data Science
-    minor:
+    minor: Art History
     hometown: Paso Robles, CA
-    involvements: Juggling Club, Club Track and Field, Backpacking Club, Ski and Board Club,
+    involvements: Spring Sing Company, Juggling Club, Club Track and Field, Backpacking Club,
     fun_fact: I can juggle and unicycle (at the same time!)
     image_path: ../images/guide_photos/jscruggs.jpg
 -
@@ -459,4 +459,160 @@ Guides:
     involvements: Clinical Psychiatry Research Assistant at UCLA Health, Delta Epsilon Mu (Pre-Health Fraternity), Student Rep for UCLA Ashe Health and Wellness Center
     fun_fact: I was a contestant on UCLA Survivor and I am applying to the real show!
     image_path: ../images/guide_photos/smushinski.jpg
-
+-
+    first_name: Dago
+    last_name: Sanchez
+    name: Dago Sanchez
+    pronoun: he/him
+    position: Lead Tour Guide
+    year: 4th year
+    transfer: Yes
+    major: Sociology
+    minor: Disability Studies
+    hometown: Redondo Beach, CA
+    involvements: Caribbean Student Association, End Overdose at UCLA
+    fun_fact: I was a child model for Zara.
+    image_path: ../images/guide_photos_2024-2025/dberto.jpg
+-
+    first_name: Charlotte
+    last_name: Bradley
+    name: Charlotte Bradley
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Psychology and World Religions
+    minor: 
+    hometown: Boston, MA
+    involvements: Student Alumni Association, Chi Omega, Coastalong
+    fun_fact: I worked on a farm this summer in Hawaii!
+    image_path: ../images/guide_photos_2024-2025/cbradley.jpg
+-
+    first_name: Jenna
+    last_name: Montgomery-Concha
+    name: Jenna Montgomery-Concha
+    pronoun: she/her
+    year: 3rd year
+    transfer: No
+    major: Cognitive Science
+    minor: Specialization in Computing
+    hometown: Rutland, VT
+    involvements: New Student Advisor, UCLA Rec, Occupational Therapy Assistant 
+    fun_fact: I'm in Barcelona right now studying abroad!
+    image_path: ../images/guide_photos_2024-2025/jconcha.jpg
+-
+    first_name: Olivia
+    last_name: Teich
+    name: Olivia Teich
+    pronoun: she/her
+    year: 2nd year
+    transfer: No
+    major: Political Science
+    minor: 
+    hometown: Santa Rosa, CA
+    involvements: Disney Club, Bruin Irish Dance
+    fun_fact: I've never had a hot dog
+    image_path: ../images/guide_photos_2024-2025/oteich.jpg
+-
+    first_name: Alexandra
+    last_name: Jankov
+    name: Alexandra Jankov
+    pronoun: she/her
+    year: 3rd year
+    transfer: No
+    major: Cognitive Science
+    minor: Specialization in Computing
+    hometown: Memphis, TN
+    involvements: Balkan Bruins
+    fun_fact: My uncle is Neil Armstrong!
+    image_path: ../images/guide_photos_2024-2025/ajankov.jpg
+-
+    first_name: Jenna
+    last_name: Foster
+    name: Jenna Foster
+    pronoun: she/her
+    year: 4th year
+    transfer: Yes
+    major: Sociology 
+    minor: Geography
+    hometown: Orinda, CA
+    involvements: Cirque de 'LA, Anime Club, Pre-Law Transfer Society, American Institute of Chemical Engineers
+    fun_fact: My family fled from the potato famine. 
+    image_path: ../images/guide_photos_2024-2025/jfoster.jpg
+-
+    first_name: Josh
+    last_name: Burpee
+    name: Josh Burpee
+    pronoun: he/him
+    year: 3rd year
+    transfer: No
+    major: Electrical Engineering
+    minor: 
+    hometown: San Jose, CA
+    involvements: IEEE, BEAM Officer, Undergraduate Research Assistant
+    fun_fact: I've dressed up as a minion for the past 8 Halloweens in a row.
+    image_path: ../images/guide_photos_2024-2025/jburpee.jpg
+-
+    first_name: Brooke
+    last_name: Lebidine
+    name: Brooke Lebidine
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Theater
+    minor: History
+    hometown: San Diego, CA
+    involvements: Alpha Delta Pi, Pokemon Club
+    fun_fact: My grandfather invented sliced bread
+    image_path: ../images/guide_photos_2024-2025/blebidine.jpg
+-
+    first_name: Jake
+    last_name: Snyder
+    name: Jake Snyder
+    pronoun: he/him
+    year: 2nd year
+    transfer: No
+    major: Political Science 
+    minor: 
+    hometown: Chicago, IL
+    involvements: Chess Club, Icarus Contemporary Dance Company
+    fun_fact: I've kept my hair permed since pre-school!
+    image_path: ../images/guide_photos_2024-2025/jsnyder.jpg
+-
+    first_name: Paden
+    last_name: Frye
+    name: Paden Frye
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Linguistics
+    minor: 
+    hometown: San Francisco, CA
+    involvements: Undergraduate Research Assistant, iKNITiative
+    fun_fact: I know the entire Bee Movie script by heart
+    image_path: ../images/guide_photos_2024-2025/pfrye.jpg
+-
+    first_name: Sneha
+    last_name: Doshi
+    name: Sneha Doshi
+    pronoun: she/her
+    year: 2nd year
+    transfer: No
+    major: Human Biology & Society
+    minor: 
+    hometown: Marlboro, NJ
+    involvements: Undergraduate Research Assistant, ASDA
+    fun_fact: I've never stayed up past midnight.
+    image_path: ../images/guide_photos_2024-2025/sdoshi.jpg
+-
+    first_name: Sam
+    last_name: Scott
+    name: Sam Scott
+    pronoun: she/her
+    year: 3rd year
+    transfer: No
+    major: Microbiology, Immunology, & Molecular Genetics and Public Health
+    minor: 
+    hometown: Orinda, CA
+    involvements: Undergraduate Research Assistant, Ceramics Club,
+    fun_fact: I'm a quadruplet (we're all identical too!)
+    image_path: ../images/guide_photos_2024-2025/sscot.jpg

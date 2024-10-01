@@ -18,7 +18,7 @@ const Explainer = () => {
 
             </div>
             <div style = {{display: "flex", marginTop: "20px", maxWidth : "600px", marginLeft: "auto"}}>
-             <Button className = {styles.button} href = "https://connect.admission.ucla.edu/register/?id=fe730086-7ef3-4a17-8870-7f88a61d8406" target="_blank">Apply today!</Button>
+             <Button className = {styles.button} href = "https://connect.admission.ucla.edu/portal/UAStudentLeaderApp" target="_blank">Apply today!</Button>
             </div>
         </div>
         
