@@ -48,7 +48,7 @@ const Contact = () => {
     <div>
         <div style = {{fontSize: "3rem", textAlign: "center", fontWeight: "bold"}}>Contact us!</div>
         <div style = {{textAlign: "center", maxWidth: "600px", margin: "auto", paddingBottom: "20px"}}>
-            Fill out the form below to reach us or email us at <a href = "mailto:apply.uclatours@gmail.com">here</a>
+            Fill out the form below to reach us or email us <a href = "mailto:apply.uclatours@gmail.com">here</a>
         </div>
     </div>
     <Form onSubmit={ handleSubmit } id = "myForm" data-netlify = "true">
