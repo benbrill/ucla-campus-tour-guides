@@ -94,7 +94,7 @@
 
 @media screen and (max-width: 600px) {
   .testimonialContainer {
-    flex-direction: column-reverse;
+    flex-direction: column;
     margin: 0px;
   }
 
@@ -106,7 +106,8 @@
 
   .testimonialVid {
     width: 100%;
-    height: 220px;
+    height: auto;
+    margin-left: 0;
   }
 
   #picture1, #picture2 {

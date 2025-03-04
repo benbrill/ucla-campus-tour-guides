@@ -103,7 +103,7 @@ Guides:
     major: Communication
     minor: Accounting, Entrepreneurship
     hometown: Seattle, WA
-    involvements: UCLA Radio, UCLA Recreation, B+, Chi Omega Philanthropy Director, UCLA Reach
+    involvements: UCLA Radio, UCLA Recreation, B+, UCLA Athletics
     fun_fact: I am toothless.
     image_path: ../images/guide_photos_2024-2025/tedwards.jpg
 -
@@ -162,7 +162,7 @@ Guides:
 -
     first_name: Jacob
     last_name: Lawson
-    name: Lacob Lawson
+    name: Jacob Lawson
     pronoun: he/him
     year: 2nd year
     transfer: No
@@ -616,3 +616,42 @@ Guides:
     involvements: Undergraduate Research Assistant, Ceramics Club,
     fun_fact: I'm a quadruplet (we're all identical too!)
     image_path: ../images/guide_photos_2024-2025/sscot.jpg
+-
+    first_name: Rohini
+    last_name: Govier
+    name: Rohini Govier
+    pronoun: she/her
+    year: 4th year
+    transfer: No
+    major: Linguistics
+    minor: Ethnomusicology
+    hometown: San Francisco, CA
+    involvements: Wizardy at UCLA, Sprinkling Fairy Dust on Occasion, Palm Readings
+    fun_fact: I am really bendy.
+    image_path: ../images/guide_photos_2024-2025/sscot.jpg
+-
+    first_name: Shiraz
+    last_name: Becker
+    name: Shiraz Becker
+    pronoun: she/her
+    year: 3rd year
+    transfer: No
+    major: Biochemistry
+    minor: African American Studies
+    hometown: Sharon, MA
+    involvements: LOUD at UCLA, Taekwondo
+    fun_fact: I've been to all 8 continents
+    image_path: ../images/guide_photos_2024-2025/sbecker.jpg
+-
+    first_name: Sophia
+    last_name: Yin
+    name: Sophia Yin
+    pronoun: she/her
+    year: 3rd year
+    transfer: No
+    major: Applied Math
+    minor: 
+    hometown: San Mateo, CA
+    involvements: Gamma Phi Beta, Club Track and Field, Undergraduate Research Assistant 
+    fun_fact: I'm allergic to bananas. 
+    image_path: ../images/guide_photos_2024-2025/sbecker.jpg
