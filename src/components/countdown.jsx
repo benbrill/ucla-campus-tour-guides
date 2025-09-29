@@ -24,7 +24,7 @@ const styles = {
 const Countdown = () => {
     const calculateTimeLeft = () => {
         let year = new Date().getFullYear();
-        const difference = +new Date(`${year}-10-10T11:59:59`) - +new Date();
+        const difference = +new Date(`${year}-10-10T23:59:59`) - +new Date();
         let timeLeft = {};
     
         if (difference > 0) {
